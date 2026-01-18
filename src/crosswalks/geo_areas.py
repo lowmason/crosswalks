@@ -17,7 +17,7 @@ BASE_PATH = Path(__file__).parent.parent.parent.parent
 geos_df = (
     pl
     .read_csv(
-        f'{BASE_PATH}/data/raw/geo_areas.csv', 
+        f'{BASE_PATH}/data/reference/geo_areas.csv', 
         schema_overrides={
             'region': pl.Utf8,
             'division': pl.Utf8,
