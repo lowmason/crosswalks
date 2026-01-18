@@ -1,0 +1,1916 @@
+state_fips,county_fips,cbsa_code,msa_code,csa_code,cbsa_title,msa_title,csa_title,metro,central
+01,001,33860,,388,"Montgomery, AL",,"Montgomery-Selma, AL",1,1
+01,003,19300,,380,"Daphne-Fairhope-Foley, AL",,"Mobile-Daphne-Fairhope, AL",1,1
+01,005,21640,,,"Eufaula, AL-GA",,,0,1
+01,007,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,0
+01,009,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,0
+01,015,11500,,,"Anniston-Oxford, AL",,,1,1
+01,017,29300,,122,"LaGrange, GA-AL",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,0
+01,021,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,0
+01,031,21460,,222,"Enterprise, AL",,"Dothan-Enterprise-Ozark, AL",0,1
+01,033,22520,,250,"Florence-Muscle Shoals, AL",,"Florence-Muscle Shoals-Russellville, AL",1,1
+01,037,45180,,142,"Talladega-Sylacauga, AL",,"Birmingham-Cullman-Talladega, AL",0,0
+01,043,18980,,142,"Cullman, AL",,"Birmingham-Cullman-Talladega, AL",0,1
+01,045,37120,,222,"Ozark, AL",,"Dothan-Enterprise-Ozark, AL",0,1
+01,047,42820,,388,"Selma, AL",,"Montgomery-Selma, AL",0,1
+01,049,22840,,290,"Fort Payne, AL",,"Huntsville-Decatur-Albertville, AL-TN",0,1
+01,051,33860,,388,"Montgomery, AL",,"Montgomery-Selma, AL",1,1
+01,055,23460,,,"Gadsden, AL",,,1,1
+01,059,40770,,250,"Russellville, AL",,"Florence-Muscle Shoals-Russellville, AL",0,1
+01,061,20020,,222,"Dothan, AL",,"Dothan-Enterprise-Ozark, AL",1,0
+01,063,46220,,,"Tuscaloosa, AL",,,1,0
+01,065,46220,,,"Tuscaloosa, AL",,,1,0
+01,067,20020,,222,"Dothan, AL",,"Dothan-Enterprise-Ozark, AL",1,0
+01,069,20020,,222,"Dothan, AL",,"Dothan-Enterprise-Ozark, AL",1,1
+01,071,42460,,174,"Scottsboro, AL",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",0,1
+01,073,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,1
+01,077,22520,,250,"Florence-Muscle Shoals, AL",,"Florence-Muscle Shoals-Russellville, AL",1,1
+01,079,19460,,290,"Decatur, AL",,"Huntsville-Decatur-Albertville, AL-TN",1,0
+01,081,12220,,194,"Auburn-Opelika, AL",,"Columbus-Auburn-Opelika, GA-AL",1,1
+01,083,26620,,290,"Huntsville, AL",,"Huntsville-Decatur-Albertville, AL-TN",1,1
+01,085,33860,,388,"Montgomery, AL",,"Montgomery-Selma, AL",1,0
+01,087,12220,,194,"Auburn-Opelika, AL",,"Columbus-Auburn-Opelika, GA-AL",1,0
+01,089,26620,,290,"Huntsville, AL",,"Huntsville-Decatur-Albertville, AL-TN",1,1
+01,095,10700,,290,"Albertville, AL",,"Huntsville-Decatur-Albertville, AL-TN",0,1
+01,097,33660,,380,"Mobile, AL",,"Mobile-Daphne-Fairhope, AL",1,1
+01,101,33860,,388,"Montgomery, AL",,"Montgomery-Selma, AL",1,1
+01,103,19460,,290,"Decatur, AL",,"Huntsville-Decatur-Albertville, AL-TN",1,1
+01,107,46220,,,"Tuscaloosa, AL",,,1,0
+01,109,45980,,,"Troy, AL",,,0,1
+01,113,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,1
+01,115,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,1
+01,117,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,1
+01,121,45180,,142,"Talladega-Sylacauga, AL",,"Birmingham-Cullman-Talladega, AL",0,1
+01,123,10760,,194,"Alexander City, AL",,"Columbus-Auburn-Opelika, GA-AL",0,1
+01,125,46220,,,"Tuscaloosa, AL",,,1,1
+01,127,13820,,142,"Birmingham, AL",,"Birmingham-Cullman-Talladega, AL",1,0
+02,020,11260,,,"Anchorage, AK",,,1,1
+02,090,21820,,,"Fairbanks-College, AK",,,1,1
+02,110,27940,,,"Juneau, AK",,,0,1
+02,130,28540,,,"Ketchikan, AK",,,0,1
+02,170,11260,,,"Anchorage, AK",,,1,0
+04,003,43420,,,"Sierra Vista-Douglas, AZ",,,1,1
+04,005,22380,,,"Flagstaff, AZ",,,1,1
+04,007,37740,,429,"Payson, AZ",,"Phoenix-Mesa, AZ",0,1
+04,009,40940,,,"Safford, AZ",,,0,1
+04,013,38060,,429,"Phoenix-Mesa-Chandler, AZ",,"Phoenix-Mesa, AZ",1,1
+04,015,29420,,,"Lake Havasu City-Kingman, AZ",,,1,1
+04,017,43320,,,"Show Low, AZ",,,0,1
+04,019,46060,,536,"Tucson, AZ",,"Tucson-Nogales, AZ",1,1
+04,021,38060,,429,"Phoenix-Mesa-Chandler, AZ",,"Phoenix-Mesa, AZ",1,1
+04,023,35700,,536,"Nogales, AZ",,"Tucson-Nogales, AZ",0,1
+04,025,39150,,,"Prescott Valley-Prescott, AZ",,,1,1
+04,027,49740,,,"Yuma, AZ",,,1,1
+05,005,34260,,,"Mountain Home, AR",,,0,1
+05,007,22220,,,"Fayetteville-Springdale-Rogers, AR",,,1,1
+05,009,25460,,,"Harrison, AR",,,0,1
+05,013,15780,,,"Camden, AR",,,0,0
+05,019,11660,,,"Arkadelphia, AR",,,0,1
+05,025,38220,,340,"Pine Bluff, AR",,"Little Rock-North Little Rock, AR",0,0
+05,027,31620,,,"Magnolia, AR",,,0,1
+05,031,27860,,308,"Jonesboro, AR",,"Jonesboro-Paragould, AR",1,1
+05,033,22900,,,"Fort Smith, AR-OK",,,1,1
+05,035,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,1
+05,045,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,0
+05,051,26300,,284,"Hot Springs, AR",,"Hot Springs-Malvern, AR",1,1
+05,053,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,0
+05,055,37500,,308,"Paragould, AR",,"Jonesboro-Paragould, AR",0,1
+05,059,31680,,284,"Malvern, AR",,"Hot Springs-Malvern, AR",0,1
+05,063,12900,,,"Batesville, AR",,,0,1
+05,069,38220,,340,"Pine Bluff, AR",,"Little Rock-North Little Rock, AR",0,1
+05,081,45500,,,"Texarkana, TX-AR",,,1,0
+05,085,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,1
+05,087,22220,,,"Fayetteville-Springdale-Rogers, AR",,,1,0
+05,091,45500,,,"Texarkana, TX-AR",,,1,1
+05,093,14180,,,"Blytheville, AR",,,0,1
+05,101,25460,,,"Harrison, AR",,,0,0
+05,103,15780,,,"Camden, AR",,,0,1
+05,105,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,0
+05,111,27860,,308,"Jonesboro, AR",,"Jonesboro-Paragould, AR",1,0
+05,115,40780,,,"Russellville, AR",,,0,1
+05,119,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,1
+05,123,22620,,368,"Forrest City, AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",0,1
+05,125,30780,,340,"Little Rock-North Little Rock-Conway, AR",,"Little Rock-North Little Rock, AR",1,1
+05,131,22900,,,"Fort Smith, AR-OK",,,1,1
+05,139,20980,,,"El Dorado, AR",,,0,1
+05,143,22220,,,"Fayetteville-Springdale-Rogers, AR",,,1,1
+05,145,42620,,340,"Searcy, AR",,"Little Rock-North Little Rock, AR",0,1
+05,149,40780,,,"Russellville, AR",,,0,0
+06,001,41860,36084,488,"San Francisco-Oakland-Fremont, CA","Oakland-Fremont-Berkeley, CA","San Jose-San Francisco-Oakland, CA",1,1
+06,003,23820,,456,"Gardnerville Ranchos, NV-CA",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",0,0
+06,007,17020,,,"Chico, CA",,,1,1
+06,013,41860,36084,488,"San Francisco-Oakland-Fremont, CA","Oakland-Fremont-Berkeley, CA","San Jose-San Francisco-Oakland, CA",1,0
+06,015,18860,,152,"Crescent City, CA",,"Brookings-Crescent City, OR-CA",0,1
+06,017,40900,,472,"Sacramento-Roseville-Folsom, CA",,"Sacramento-Roseville, CA",1,1
+06,019,23420,,260,"Fresno, CA",,"Fresno-Hanford-Corcoran, CA",1,1
+06,023,21700,,,"Eureka-Arcata, CA",,,0,1
+06,025,20940,,,"El Centro, CA",,,1,1
+06,027,13860,,,"Bishop, CA",,,0,1
+06,029,12540,,,"Bakersfield-Delano, CA",,,1,1
+06,031,25260,,260,"Hanford-Corcoran, CA",,"Fresno-Hanford-Corcoran, CA",1,1
+06,033,17340,,,"Clearlake, CA",,,0,1
+06,035,45000,,,"Susanville, CA",,,0,1
+06,037,31080,31084,348,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Glendale, CA","Los Angeles-Long Beach, CA",1,1
+06,039,23420,,260,"Fresno, CA",,"Fresno-Hanford-Corcoran, CA",1,0
+06,041,41860,42034,488,"San Francisco-Oakland-Fremont, CA","San Rafael, CA","San Jose-San Francisco-Oakland, CA",1,1
+06,045,46380,,,"Ukiah, CA",,,0,1
+06,047,32900,,488,"Merced, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,053,41500,,,"Salinas, CA",,,1,1
+06,055,34900,,488,"Napa, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,057,46020,,472,"Truckee-Grass Valley, CA",,"Sacramento-Roseville, CA",0,1
+06,059,31080,11244,348,"Los Angeles-Long Beach-Anaheim, CA","Anaheim-Santa Ana-Irvine, CA","Los Angeles-Long Beach, CA",1,1
+06,061,40900,,472,"Sacramento-Roseville-Folsom, CA",,"Sacramento-Roseville, CA",1,1
+06,065,40140,,348,"Riverside-San Bernardino-Ontario, CA",,"Los Angeles-Long Beach, CA",1,1
+06,067,40900,,472,"Sacramento-Roseville-Folsom, CA",,"Sacramento-Roseville, CA",1,1
+06,069,41940,,488,"San Jose-Sunnyvale-Santa Clara, CA",,"San Jose-San Francisco-Oakland, CA",1,0
+06,071,40140,,348,"Riverside-San Bernardino-Ontario, CA",,"Los Angeles-Long Beach, CA",1,1
+06,073,41740,,,"San Diego-Chula Vista-Carlsbad, CA",,,1,1
+06,075,41860,41884,488,"San Francisco-Oakland-Fremont, CA","San Francisco-San Mateo-Redwood City, CA","San Jose-San Francisco-Oakland, CA",1,1
+06,077,44700,,488,"Stockton-Lodi, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,079,42020,,,"San Luis Obispo-Paso Robles, CA",,,1,1
+06,081,41860,41884,488,"San Francisco-Oakland-Fremont, CA","San Francisco-San Mateo-Redwood City, CA","San Jose-San Francisco-Oakland, CA",1,1
+06,083,42200,,,"Santa Maria-Santa Barbara, CA",,,1,1
+06,085,41940,,488,"San Jose-Sunnyvale-Santa Clara, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,087,42100,,488,"Santa Cruz-Watsonville, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,089,39820,,454,"Redding, CA",,"Redding-Red Bluff, CA",1,1
+06,095,46700,,488,"Vallejo, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,097,42220,,,"Santa Rosa-Petaluma, CA",,,1,1
+06,099,33700,,488,"Modesto, CA",,"San Jose-San Francisco-Oakland, CA",1,1
+06,101,49700,,472,"Yuba City, CA",,"Sacramento-Roseville, CA",1,1
+06,103,39780,,454,"Red Bluff, CA",,"Redding-Red Bluff, CA",0,1
+06,107,47300,,,"Visalia, CA",,,1,1
+06,109,43760,,,"Sonora, CA",,,0,1
+06,111,37100,,348,"Oxnard-Thousand Oaks-Ventura, CA",,"Los Angeles-Long Beach, CA",1,1
+06,113,40900,,472,"Sacramento-Roseville-Folsom, CA",,"Sacramento-Roseville, CA",1,0
+06,115,49700,,472,"Yuba City, CA",,"Sacramento-Roseville, CA",1,1
+08,001,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,003,10480,,,"Alamosa, CO",,,0,1
+08,005,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,013,14500,,216,"Boulder, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,014,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,019,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,0
+08,021,10480,,,"Alamosa, CO",,,0,0
+08,023,10480,,,"Alamosa, CO",,,0,0
+08,031,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,035,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,037,20780,,233,"Edwards, CO",,"Edwards-Rifle, CO",0,1
+08,039,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,0
+08,041,17820,,,"Colorado Springs, CO",,,1,1
+08,043,15860,,444,"Cañon City, CO",,"Pueblo-Cañon City, CO",0,1
+08,045,40090,,233,"Rifle, CO",,"Edwards-Rifle, CO",0,1
+08,047,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,0
+08,059,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,1
+08,065,14720,,,"Breckenridge, CO",,,0,0
+08,067,20420,,,"Durango, CO",,,0,1
+08,069,22660,,,"Fort Collins-Loveland, CO",,,1,1
+08,075,44540,,,"Sterling, CO",,,0,1
+08,077,24300,,,"Grand Junction, CO",,,1,1
+08,081,44460,,,"Steamboat Springs, CO",,,0,0
+08,085,33940,,,"Montrose, CO",,,0,1
+08,087,22820,,,"Fort Morgan, CO",,,0,1
+08,093,19740,,216,"Denver-Aurora-Centennial, CO",,"Denver-Aurora-Greeley, CO",1,0
+08,097,40090,,233,"Rifle, CO",,"Edwards-Rifle, CO",0,0
+08,101,39380,,444,"Pueblo, CO",,"Pueblo-Cañon City, CO",1,1
+08,107,44460,,,"Steamboat Springs, CO",,,0,1
+08,117,14720,,,"Breckenridge, CO",,,0,1
+08,119,17820,,,"Colorado Springs, CO",,,1,0
+08,123,24540,,216,"Greeley, CO",,"Denver-Aurora-Greeley, CO",1,1
+09,110,25540,,405,"Hartford-West Hartford-East Hartford, CT",,"New Haven-Hartford-Waterbury, CT",1,1
+09,120,14860,,408,"Bridgeport-Stamford-Danbury, CT",,"New York-Newark, NY-NJ-CT-PA",1,1
+09,130,25540,,405,"Hartford-West Hartford-East Hartford, CT",,"New Haven-Hartford-Waterbury, CT",1,1
+09,140,47930,,405,"Waterbury-Shelton, CT",,"New Haven-Hartford-Waterbury, CT",1,1
+09,150,39480,,405,"Putnam, CT",,"New Haven-Hartford-Waterbury, CT",0,1
+09,160,45860,,405,"Torrington, CT",,"New Haven-Hartford-Waterbury, CT",0,1
+09,170,35300,,405,"New Haven, CT",,"New Haven-Hartford-Waterbury, CT",1,1
+09,180,35980,,405,"Norwich-New London-Willimantic, CT",,"New Haven-Hartford-Waterbury, CT",1,1
+09,190,14860,,408,"Bridgeport-Stamford-Danbury, CT",,"New York-Newark, NY-NJ-CT-PA",1,1
+10,001,20100,,428,"Dover, DE",,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+10,003,37980,48864,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+10,005,42580,,,"Seaford, DE",,,0,1
+11,001,47900,47764,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington, DC-MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+12,001,23540,,264,"Gainesville, FL",,"Gainesville-Lake City, FL",1,1
+12,003,27260,,300,"Jacksonville, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",1,0
+12,005,37460,,,"Panama City-Panama City Beach, FL",,,1,1
+12,009,37340,,,"Palm Bay-Melbourne-Titusville, FL",,,1,1
+12,011,33100,22744,370,"Miami-Fort Lauderdale-West Palm Beach, FL","Fort Lauderdale-Pompano Beach-Sunrise, FL","Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,015,39460,,412,"Punta Gorda, FL",,"North Port-Bradenton, FL",1,1
+12,017,26140,,,"Homosassa Springs, FL",,,1,1
+12,019,27260,,300,"Jacksonville, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",1,1
+12,021,34940,,163,"Naples-Marco Island, FL",,"Cape Coral-Fort Myers-Naples, FL",1,1
+12,023,29380,,264,"Lake City, FL",,"Gainesville-Lake City, FL",0,1
+12,027,11580,,412,"Arcadia, FL",,"North Port-Bradenton, FL",0,1
+12,031,27260,,300,"Jacksonville, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",1,1
+12,033,37860,,,"Pensacola-Ferry Pass-Brent, FL",,,1,1
+12,035,19660,,422,"Deltona-Daytona Beach-Ormond Beach, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,039,45220,,533,"Tallahassee, FL",,"Tallahassee-Bainbridge, FL-GA",1,0
+12,041,23540,,264,"Gainesville, FL",,"Gainesville-Lake City, FL",1,0
+12,043,17500,,163,"Clewiston, FL",,"Cape Coral-Fort Myers-Naples, FL",0,0
+12,051,17500,,163,"Clewiston, FL",,"Cape Coral-Fort Myers-Naples, FL",0,1
+12,053,45300,45294,,"Tampa-St. Petersburg-Clearwater, FL","Tampa, FL",,1,0
+12,055,42700,,,"Sebring, FL",,,1,1
+12,057,45300,45294,,"Tampa-St. Petersburg-Clearwater, FL","Tampa, FL",,1,1
+12,061,42680,,370,"Sebastian-Vero Beach-West Vero Corridor, FL",,"Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,065,45220,,533,"Tallahassee, FL",,"Tallahassee-Bainbridge, FL-GA",1,0
+12,069,36740,,422,"Orlando-Kissimmee-Sanford, FL",,"Orlando-Lakeland-Deltona, FL",1,0
+12,071,15980,,163,"Cape Coral-Fort Myers, FL",,"Cape Coral-Fort Myers-Naples, FL",1,1
+12,073,45220,,533,"Tallahassee, FL",,"Tallahassee-Bainbridge, FL-GA",1,1
+12,075,23540,,264,"Gainesville, FL",,"Gainesville-Lake City, FL",1,0
+12,081,35840,,412,"North Port-Bradenton-Sarasota, FL",,"North Port-Bradenton, FL",1,1
+12,083,36100,,,"Ocala, FL",,,1,1
+12,085,38940,,370,"Port St. Lucie, FL",,"Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,086,33100,33124,370,"Miami-Fort Lauderdale-West Palm Beach, FL","Miami-Miami Beach-Kendall, FL","Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,087,28580,,370,"Key West-Key Largo, FL",,"Miami-Port St. Lucie-Fort Lauderdale, FL",0,1
+12,089,27260,,300,"Jacksonville, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",1,0
+12,091,18880,,,"Crestview-Fort Walton Beach-Destin, FL",,,1,1
+12,093,36380,,370,"Okeechobee, FL",,"Miami-Port St. Lucie-Fort Lauderdale, FL",0,1
+12,095,36740,,422,"Orlando-Kissimmee-Sanford, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,097,36740,,422,"Orlando-Kissimmee-Sanford, FL",,"Orlando-Lakeland-Deltona, FL",1,0
+12,099,33100,48424,370,"Miami-Fort Lauderdale-West Palm Beach, FL","West Palm Beach-Boca Raton-Delray Beach, FL","Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,101,45300,45294,,"Tampa-St. Petersburg-Clearwater, FL","Tampa, FL",,1,1
+12,103,45300,41304,,"Tampa-St. Petersburg-Clearwater, FL","St. Petersburg-Clearwater-Largo, FL",,1,1
+12,105,29460,,422,"Lakeland-Winter Haven, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,107,37260,,300,"Palatka, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",0,1
+12,109,27260,,300,"Jacksonville, FL",,"Jacksonville-Kingsland-Palatka, FL-GA",1,1
+12,111,38940,,370,"Port St. Lucie, FL",,"Miami-Port St. Lucie-Fort Lauderdale, FL",1,1
+12,113,37860,,,"Pensacola-Ferry Pass-Brent, FL",,,1,1
+12,115,35840,,412,"North Port-Bradenton-Sarasota, FL",,"North Port-Bradenton, FL",1,1
+12,117,36740,,422,"Orlando-Kissimmee-Sanford, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,119,48680,,422,"Wildwood-The Villages, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,127,19660,,422,"Deltona-Daytona Beach-Ormond Beach, FL",,"Orlando-Lakeland-Deltona, FL",1,1
+12,129,45220,,533,"Tallahassee, FL",,"Tallahassee-Bainbridge, FL-GA",1,0
+12,131,18880,,,"Crestview-Fort Walton Beach-Destin, FL",,,1,1
+12,133,37460,,,"Panama City-Panama City Beach, FL",,,1,0
+13,003,20060,,,"Douglas, GA",,,0,0
+13,009,33300,,,"Milledgeville, GA",,,0,1
+13,013,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,015,12060,31924,122,"Atlanta-Sandy Springs-Roswell, GA","Marietta, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,017,22340,,,"Fitzgerald, GA",,,0,1
+13,021,31420,,356,"Macon-Bibb County, GA",,"Macon-Bibb County--Warner Robins, GA",1,1
+13,025,15260,,,"Brunswick-St. Simons, GA",,,1,0
+13,027,46660,,,"Valdosta, GA",,,1,0
+13,029,42340,,496,"Savannah, GA",,"Savannah-Hinesville-Statesboro, GA",1,1
+13,031,44340,,496,"Statesboro, GA",,"Savannah-Hinesville-Statesboro, GA",0,1
+13,033,12260,,,"Augusta-Richmond County, GA-SC",,,1,0
+13,035,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,039,28680,,300,"Kingsland, GA",,"Jacksonville-Kingsland-Palatka, FL-GA",0,1
+13,045,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,047,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,1
+13,051,42340,,496,"Savannah, GA",,"Savannah-Hinesville-Statesboro, GA",1,1
+13,053,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,1
+13,055,44900,,174,"Summerville, GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",0,1
+13,057,12060,31924,122,"Atlanta-Sandy Springs-Roswell, GA","Marietta, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,059,12020,,122,"Athens-Clarke County, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,063,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,067,12060,31924,122,"Atlanta-Sandy Springs-Roswell, GA","Marietta, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,069,20060,,,"Douglas, GA",,,0,1
+13,071,34220,,,"Moultrie, GA",,,0,1
+13,073,12260,,,"Augusta-Richmond County, GA-SC",,,1,1
+13,077,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,079,31420,,356,"Macon-Bibb County, GA",,"Macon-Bibb County--Warner Robins, GA",1,0
+13,081,18380,,,"Cordele, GA",,,0,1
+13,083,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,0
+13,085,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,087,12460,,533,"Bainbridge, GA",,"Tallahassee-Bainbridge, FL-GA",0,1
+13,089,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,095,10500,,,"Albany, GA",,,1,1
+13,097,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,101,46660,,,"Valdosta, GA",,,1,0
+13,103,42340,,496,"Savannah, GA",,"Savannah-Hinesville-Statesboro, GA",1,0
+13,109,44340,,496,"Statesboro, GA",,"Savannah-Hinesville-Statesboro, GA",0,0
+13,113,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,115,40660,,122,"Rome, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,117,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,121,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,127,15260,,,"Brunswick-St. Simons, GA",,,1,1
+13,129,15660,,122,"Calhoun, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,131,45620,,,"Thomasville, GA",,,0,0
+13,135,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,137,18460,,122,"Cornelia, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,139,23580,,122,"Gainesville, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,143,12060,31924,122,"Atlanta-Sandy Springs-Roswell, GA","Marietta, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,145,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,0
+13,149,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,151,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,153,47580,,356,"Warner Robins, GA",,"Macon-Bibb County--Warner Robins, GA",1,1
+13,157,27600,,122,"Jefferson, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,159,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,167,20140,,,"Dublin, GA",,,0,0
+13,169,31420,,356,"Macon-Bibb County, GA",,"Macon-Bibb County--Warner Robins, GA",1,0
+13,173,46660,,,"Valdosta, GA",,,1,0
+13,175,20140,,,"Dublin, GA",,,0,1
+13,177,10500,,,"Albany, GA",,,1,1
+13,179,25980,,496,"Hinesville, GA",,"Savannah-Hinesville-Statesboro, GA",1,1
+13,181,12260,,,"Augusta-Richmond County, GA-SC",,,1,0
+13,183,25980,,496,"Hinesville, GA",,"Savannah-Hinesville-Statesboro, GA",1,0
+13,185,46660,,,"Valdosta, GA",,,1,1
+13,187,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,189,12260,,,"Augusta-Richmond County, GA-SC",,,1,0
+13,191,15260,,,"Brunswick-St. Simons, GA",,,1,0
+13,195,12020,,122,"Athens-Clarke County, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,197,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,0
+13,199,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,207,31420,,356,"Macon-Bibb County, GA",,"Macon-Bibb County--Warner Robins, GA",1,0
+13,209,47080,,,"Vidalia, GA",,,0,0
+13,211,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,213,19140,,174,"Dalton, GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,0
+13,215,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,1
+13,217,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,219,12020,,122,"Athens-Clarke County, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,221,12020,,122,"Athens-Clarke County, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,223,12060,31924,122,"Atlanta-Sandy Springs-Roswell, GA","Marietta, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,225,47580,,356,"Warner Robins, GA",,"Macon-Bibb County--Warner Robins, GA",1,1
+13,227,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,229,48180,,,"Waycross, GA",,,0,0
+13,231,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,233,16340,,122,"Cedartown, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,239,21640,,,"Eufaula, AL-GA",,,0,0
+13,245,12260,,,"Augusta-Richmond County, GA-SC",,,1,1
+13,247,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,249,11140,,,"Americus, GA",,,0,0
+13,255,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,0
+13,257,45740,,,"Toccoa, GA",,,0,1
+13,259,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,0
+13,261,11140,,,"Americus, GA",,,0,1
+13,263,17980,,194,"Columbus, GA-AL",,"Columbus-Auburn-Opelika, GA-AL",1,0
+13,273,10500,,,"Albany, GA",,,1,0
+13,275,45620,,,"Thomasville, GA",,,0,1
+13,277,45700,,,"Tifton, GA",,,0,1
+13,279,47080,,,"Vidalia, GA",,,0,1
+13,285,29300,,122,"LaGrange, GA-AL",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,287,45700,,,"Tifton, GA",,,0,0
+13,289,31420,,356,"Macon-Bibb County, GA",,"Macon-Bibb County--Warner Robins, GA",1,0
+13,293,45580,,122,"Thomaston, GA",,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",0,1
+13,295,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,1
+13,297,12060,12054,122,"Atlanta-Sandy Springs-Roswell, GA","Atlanta-Sandy Springs-Roswell, GA","Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",1,1
+13,299,48180,,,"Waycross, GA",,,0,1
+13,305,27700,,496,"Jesup, GA",,"Savannah-Hinesville-Statesboro, GA",0,1
+13,313,19140,,174,"Dalton, GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,1
+13,321,10500,,,"Albany, GA",,,1,0
+15,001,25900,,,"Hilo-Kailua, HI",,,0,1
+15,003,46520,,,"Urban Honolulu, HI",,,1,1
+15,005,27980,,,"Kahului-Wailuku, HI",,,1,0
+15,007,28180,,,"Kapaa, HI",,,0,1
+15,009,27980,,,"Kahului-Wailuku, HI",,,1,1
+16,001,14260,,147,"Boise City, ID",,"Boise City-Mountain Home-Ontario, ID-OR",1,1
+16,005,38540,,,"Pocatello, ID",,,1,1
+16,011,13940,,292,"Blackfoot, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",0,1
+16,013,25200,,,"Hailey, ID",,,0,1
+16,015,14260,,147,"Boise City, ID",,"Boise City-Mountain Home-Ontario, ID-OR",1,0
+16,017,41760,,,"Sandpoint, ID",,,0,1
+16,019,26820,,292,"Idaho Falls, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",1,1
+16,023,26820,,292,"Idaho Falls, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",1,0
+16,025,25200,,,"Hailey, ID",,,0,0
+16,027,14260,,147,"Boise City, ID",,"Boise City-Mountain Home-Ontario, ID-OR",1,0
+16,031,15420,,,"Burley, ID",,,0,1
+16,039,34300,,147,"Mountain Home, ID",,"Boise City-Mountain Home-Ontario, ID-OR",0,1
+16,041,30860,,,"Logan, UT-ID",,,1,0
+16,043,39940,,292,"Rexburg, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",0,0
+16,045,14260,,147,"Boise City, ID",,"Boise City-Mountain Home-Ontario, ID-OR",1,0
+16,051,26820,,292,"Idaho Falls, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",1,0
+16,053,46300,,,"Twin Falls, ID",,,1,0
+16,055,17660,,518,"Coeur d'Alene, ID",,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",1,1
+16,057,34140,,446,"Moscow, ID",,"Pullman-Moscow, WA-ID",0,1
+16,063,25200,,,"Hailey, ID",,,0,0
+16,065,39940,,292,"Rexburg, ID",,"Idaho Falls-Rexburg-Blackfoot, ID",0,1
+16,067,15420,,,"Burley, ID",,,0,1
+16,069,30300,,,"Lewiston, ID-WA",,,1,1
+16,071,14940,,482,"Brigham City, UT-ID",,"Salt Lake City-Provo-Orem, UT-ID",0,0
+16,073,14260,,147,"Boise City, ID",,"Boise City-Mountain Home-Ontario, ID-OR",1,0
+16,075,36620,,147,"Ontario, OR-ID",,"Boise City-Mountain Home-Ontario, ID-OR",0,1
+16,081,27220,,,"Jackson, WY-ID",,,0,0
+16,083,46300,,,"Twin Falls, ID",,,1,1
+17,001,39500,,448,"Quincy, IL-MO",,"Quincy-Hannibal, IL-MO",0,1
+17,003,16020,,164,"Cape Girardeau, MO-IL",,"Cape Girardeau-Sikeston, MO-IL",1,0
+17,005,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+17,007,40420,,466,"Rockford, IL",,"Rockford-Freeport-Rochelle, IL",1,1
+17,011,36837,,176,"Ottawa, IL",,"Chicago-Naperville, IL-IN-WI",0,1
+17,013,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+17,019,16580,,169,"Champaign-Urbana, IL",,"Champaign-Urbana-Danville, IL",1,1
+17,021,45380,,522,"Taylorville, IL",,"Springfield-Jacksonville-Lincoln, IL",0,1
+17,027,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+17,029,16660,,,"Charleston-Mattoon, IL",,,0,1
+17,031,16980,16984,176,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Schaumburg, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,035,20820,,,"Effingham, IL",,,0,0
+17,037,16980,20994,176,"Chicago-Naperville-Elgin, IL-IN","Elgin, IL","Chicago-Naperville, IL-IN-WI",1,0
+17,043,16980,16984,176,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Schaumburg, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,049,20820,,,"Effingham, IL",,,0,1
+17,053,16580,,169,"Champaign-Urbana, IL",,"Champaign-Urbana-Danville, IL",1,0
+17,057,15900,,427,"Canton, IL",,"Peoria-Canton, IL",0,1
+17,063,16980,16984,176,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Schaumburg, IL","Chicago-Naperville, IL-IN-WI",1,0
+17,071,15460,,161,"Burlington, IA-IL",,"Burlington-Fort Madison, IA-IL",0,0
+17,073,19340,,209,"Davenport-Moline-Rock Island, IA-IL",,"Davenport-Moline, IA-IL",1,0
+17,077,16060,,166,"Carbondale, IL",,"Carbondale-Marion-Herrin, IL",0,1
+17,081,34500,,,"Mount Vernon, IL",,,0,1
+17,083,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+17,089,16980,20994,176,"Chicago-Naperville-Elgin, IL-IN","Elgin, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,091,28100,,176,"Kankakee, IL",,"Chicago-Naperville, IL-IN-WI",1,1
+17,093,16980,20994,176,"Chicago-Naperville-Elgin, IL-IN","Elgin, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,095,23660,,,"Galesburg, IL",,,0,1
+17,097,16980,29404,176,"Chicago-Naperville-Elgin, IL-IN","Lake County, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,099,36837,,176,"Ottawa, IL",,"Chicago-Naperville, IL-IN-WI",0,1
+17,103,19940,,221,"Dixon, IL",,"Dixon-Sterling, IL",0,1
+17,105,38700,,145,"Pontiac, IL",,"Bloomington-Pontiac, IL",0,1
+17,107,30660,,522,"Lincoln, IL",,"Springfield-Jacksonville-Lincoln, IL",0,1
+17,109,31380,,,"Macomb, IL",,,0,1
+17,111,16980,16984,176,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Schaumburg, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,113,14010,,145,"Bloomington, IL",,"Bloomington-Pontiac, IL",1,1
+17,115,19500,,,"Decatur, IL",,,1,1
+17,117,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+17,119,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+17,121,16460,,476,"Centralia, IL",,"St. Louis-St. Charles-Farmington, MO-IL",0,1
+17,123,37900,,427,"Peoria, IL",,"Peoria-Canton, IL",1,0
+17,127,37140,,424,"Paducah, KY-IL",,"Paducah-Mayfield, KY-IL",1,0
+17,129,44100,,522,"Springfield, IL",,"Springfield-Jacksonville-Lincoln, IL",1,0
+17,131,19340,,209,"Davenport-Moline-Rock Island, IA-IL",,"Davenport-Moline, IA-IL",1,0
+17,133,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+17,137,27300,,522,"Jacksonville, IL",,"Springfield-Jacksonville-Lincoln, IL",0,1
+17,141,40300,,466,"Rochelle, IL",,"Rockford-Freeport-Rochelle, IL",0,1
+17,143,37900,,427,"Peoria, IL",,"Peoria-Canton, IL",1,1
+17,147,16580,,169,"Champaign-Urbana, IL",,"Champaign-Urbana-Danville, IL",1,0
+17,155,36837,,176,"Ottawa, IL",,"Chicago-Naperville, IL-IN-WI",0,0
+17,161,19340,,209,"Davenport-Moline-Rock Island, IA-IL",,"Davenport-Moline, IA-IL",1,1
+17,163,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+17,167,44100,,522,"Springfield, IL",,"Springfield-Jacksonville-Lincoln, IL",1,1
+17,171,27300,,522,"Jacksonville, IL",,"Springfield-Jacksonville-Lincoln, IL",0,0
+17,175,37900,,427,"Peoria, IL",,"Peoria-Canton, IL",1,0
+17,177,23300,,466,"Freeport, IL",,"Rockford-Freeport-Rochelle, IL",0,1
+17,179,37900,,427,"Peoria, IL",,"Peoria-Canton, IL",1,1
+17,183,19180,,169,"Danville, IL",,"Champaign-Urbana-Danville, IL",0,1
+17,195,44580,,221,"Sterling, IL",,"Dixon-Sterling, IL",0,1
+17,197,16980,16984,176,"Chicago-Naperville-Elgin, IL-IN","Chicago-Naperville-Schaumburg, IL","Chicago-Naperville, IL-IN-WI",1,1
+17,199,32060,,166,"Marion-Herrin, IL",,"Carbondale-Marion-Herrin, IL",0,1
+17,201,40420,,466,"Rockford, IL",,"Rockford-Freeport-Rochelle, IL",1,1
+17,203,37900,,427,"Peoria, IL",,"Peoria-Canton, IL",1,1
+18,001,19540,,258,"Decatur, IN",,"Fort Wayne-Huntington-Auburn, IN",0,1
+18,003,23060,,258,"Fort Wayne, IN",,"Fort Wayne-Huntington-Auburn, IN",1,1
+18,005,18020,,294,"Columbus, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,007,29200,,320,"Lafayette-West Lafayette, IN",,"Lafayette-West Lafayette-Frankfort, IN",1,0
+18,011,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,013,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,0
+18,015,29200,,320,"Lafayette-West Lafayette, IN",,"Lafayette-West Lafayette-Frankfort, IN",1,0
+18,017,30900,,,"Logansport, IN",,,0,1
+18,019,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+18,021,45460,,,"Terre Haute, IN",,,1,0
+18,023,23140,,320,"Frankfort, IN",,"Lafayette-West Lafayette-Frankfort, IN",0,1
+18,027,47780,,,"Washington, IN",,,0,1
+18,029,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+18,031,24700,,294,"Greensburg, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,033,12140,,258,"Auburn, IN",,"Fort Wayne-Huntington-Auburn, IN",0,1
+18,035,34620,,294,"Muncie, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,037,27540,,,"Jasper, IN",,,0,1
+18,039,21140,,515,"Elkhart-Goshen, IN",,"South Bend-Elkhart-Mishawaka, IN-MI",1,1
+18,041,18220,,458,"Connersville, IN",,"Richmond-Connersville, IN",0,1
+18,043,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+18,047,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+18,053,31980,,,"Marion, IN",,,0,1
+18,057,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,059,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,061,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+18,063,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,065,35220,,294,"New Castle, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,067,29020,,294,"Kokomo, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,069,26540,,258,"Huntington, IN",,"Fort Wayne-Huntington-Auburn, IN",0,1
+18,071,42980,,294,"Seymour, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,073,16980,29414,176,"Chicago-Naperville-Elgin, IL-IN","Lake County-Porter County-Jasper County, IN","Chicago-Naperville, IL-IN-WI",1,0
+18,077,31500,,,"Madison, IN",,,0,1
+18,081,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,083,47180,,,"Vincennes, IN",,,0,1
+18,085,47700,,515,"Warsaw, IN",,"South Bend-Elkhart-Mishawaka, IN-MI",0,1
+18,089,16980,29414,176,"Chicago-Naperville-Elgin, IL-IN","Lake County-Porter County-Jasper County, IN","Chicago-Naperville, IL-IN-WI",1,1
+18,091,33140,,176,"Michigan City-La Porte, IN",,"Chicago-Naperville, IL-IN-WI",1,1
+18,093,13260,,144,"Bedford, IN",,"Bloomington-Bedford, IN",0,1
+18,095,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,0
+18,097,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,099,38500,,515,"Plymouth, IN",,"South Bend-Elkhart-Mishawaka, IN-MI",0,1
+18,103,37940,,294,"Peru, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,105,14020,,144,"Bloomington, IN",,"Bloomington-Bedford, IN",1,1
+18,107,18820,,294,"Crawfordsville, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,109,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,1
+18,111,16980,29414,176,"Chicago-Naperville-Elgin, IL-IN","Lake County-Porter County-Jasper County, IN","Chicago-Naperville, IL-IN-WI",1,0
+18,113,28340,,258,"Kendallville, IN",,"Fort Wayne-Huntington-Auburn, IN",0,1
+18,115,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+18,119,14020,,144,"Bloomington, IN",,"Bloomington-Bedford, IN",1,0
+18,127,16980,29414,176,"Chicago-Naperville-Elgin, IL-IN","Lake County-Porter County-Jasper County, IN","Chicago-Naperville, IL-IN-WI",1,1
+18,129,21780,,241,"Evansville, IN",,"Evansville-Henderson, IN-KY",1,0
+18,133,24600,,294,"Greencastle, IN",,"Indianapolis-Carmel-Muncie, IN",0,1
+18,141,43780,,515,"South Bend-Mishawaka, IN-MI",,"South Bend-Elkhart-Mishawaka, IN-MI",1,1
+18,145,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,0
+18,151,11420,,258,"Angola, IN",,"Fort Wayne-Huntington-Auburn, IN",0,1
+18,153,45460,,,"Terre Haute, IN",,,1,0
+18,157,29200,,320,"Lafayette-West Lafayette, IN",,"Lafayette-West Lafayette-Frankfort, IN",1,1
+18,159,26900,,294,"Indianapolis-Carmel-Greenwood, IN",,"Indianapolis-Carmel-Muncie, IN",1,0
+18,163,21780,,241,"Evansville, IN",,"Evansville-Henderson, IN-KY",1,1
+18,165,45460,,,"Terre Haute, IN",,,1,0
+18,167,45460,,,"Terre Haute, IN",,,1,1
+18,169,47340,,,"Wabash, IN",,,0,1
+18,171,29200,,320,"Lafayette-West Lafayette, IN",,"Lafayette-West Lafayette-Frankfort, IN",1,0
+18,173,21780,,241,"Evansville, IN",,"Evansville-Henderson, IN-KY",1,1
+18,175,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+18,177,39980,,458,"Richmond, IN",,"Richmond-Connersville, IN",0,1
+18,179,23060,,258,"Fort Wayne, IN",,"Fort Wayne-Huntington-Auburn, IN",1,0
+18,181,33900,,320,"Monticello, IN",,"Lafayette-West Lafayette-Frankfort, IN",0,1
+18,183,23060,,258,"Fort Wayne, IN",,"Fort Wayne-Huntington-Auburn, IN",1,0
+19,011,16300,,168,"Cedar Rapids, IA",,"Cedar Rapids-Iowa City, IA",1,0
+19,013,47940,,,"Waterloo-Cedar Falls, IA",,,1,1
+19,015,11180,,218,"Ames, IA",,"Des Moines-West Des Moines-Ames, IA",1,0
+19,017,47940,,,"Waterloo-Cedar Falls, IA",,,1,0
+19,021,44740,,,"Storm Lake, IA",,,0,1
+19,027,16140,,,"Carroll, IA",,,0,1
+19,033,32380,,,"Mason City, IA",,,0,1
+19,041,43980,,517,"Spencer, IA",,"Spencer-Spirit Lake, IA",0,1
+19,045,17540,,209,"Clinton, IA",,"Davenport-Moline, IA-IL",0,1
+19,049,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,1
+19,057,15460,,161,"Burlington, IA-IL",,"Burlington-Fort Madison, IA-IL",0,1
+19,059,44020,,517,"Spirit Lake, IA",,"Spencer-Spirit Lake, IA",0,1
+19,061,20220,,,"Dubuque, IA",,,1,1
+19,075,47940,,,"Waterloo-Cedar Falls, IA",,,1,0
+19,077,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,0
+19,085,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,0
+19,099,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,0
+19,103,26980,,168,"Iowa City, IA",,"Cedar Rapids-Iowa City, IA",1,1
+19,105,16300,,168,"Cedar Rapids, IA",,"Cedar Rapids-Iowa City, IA",1,0
+19,111,22800,,161,"Fort Madison, IA",,"Burlington-Fort Madison, IA-IL",0,1
+19,113,16300,,168,"Cedar Rapids, IA",,"Cedar Rapids-Iowa City, IA",1,1
+19,121,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,0
+19,123,36820,,218,"Oskaloosa, IA",,"Des Moines-West Des Moines-Ames, IA",0,1
+19,125,37800,,218,"Pella, IA",,"Des Moines-West Des Moines-Ames, IA",0,1
+19,127,32260,,,"Marshalltown, IA",,,0,1
+19,129,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,0
+19,139,34700,,209,"Muscatine, IA",,"Davenport-Moline, IA-IL",0,1
+19,149,30180,,512,"Le Mars, IA",,"Sioux City-Le Mars, IA-NE-SD",0,1
+19,153,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,1
+19,155,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,1
+19,163,19340,,209,"Davenport-Moline-Rock Island, IA-IL",,"Davenport-Moline, IA-IL",1,1
+19,169,11180,,218,"Ames, IA",,"Des Moines-West Des Moines-Ames, IA",1,1
+19,179,36900,,,"Ottumwa, IA",,,0,1
+19,181,19780,,218,"Des Moines-West Des Moines, IA",,"Des Moines-West Des Moines-Ames, IA",1,0
+19,183,26980,,168,"Iowa City, IA",,"Cedar Rapids-Iowa City, IA",1,0
+19,187,22700,,,"Fort Dodge, IA",,,0,1
+19,193,43580,,512,"Sioux City, IA-NE-SD",,"Sioux City-Le Mars, IA-NE-SD",1,1
+19,195,32380,,,"Mason City, IA",,,0,0
+20,005,11860,,312,"Atchison, KS",,"Kansas City-Overland Park-Kansas City, MO-KS",0,1
+20,009,24460,,,"Great Bend, KS",,,0,1
+20,015,48620,,556,"Wichita, KS",,"Wichita-Arkansas City-Winfield, KS",1,1
+20,017,21380,,,"Emporia, KS",,,0,0
+20,021,27900,,309,"Joplin, MO-KS",,"Joplin-Miami, MO-OK-KS",1,0
+20,035,11680,,556,"Arkansas City-Winfield, KS",,"Wichita-Arkansas City-Winfield, KS",0,1
+20,037,38260,,,"Pittsburg, KS",,,0,1
+20,043,41140,,312,"St. Joseph, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+20,045,29940,,312,"Lawrence, KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+20,051,25700,,,"Hays, KS",,,0,1
+20,055,23780,,,"Garden City, KS",,,0,1
+20,057,19980,,,"Dodge City, KS",,,0,1
+20,059,36840,,312,"Ottawa, KS",,"Kansas City-Overland Park-Kansas City, MO-KS",0,1
+20,061,31740,,,"Manhattan, KS",,,1,0
+20,079,48620,,556,"Wichita, KS",,"Wichita-Arkansas City-Winfield, KS",1,0
+20,085,45820,,,"Topeka, KS",,,1,0
+20,087,45820,,,"Topeka, KS",,,1,0
+20,091,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+20,103,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+20,107,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+20,111,21380,,,"Emporia, KS",,,0,1
+20,113,32700,,,"McPherson, KS",,,0,1
+20,121,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+20,139,45820,,,"Topeka, KS",,,1,0
+20,143,41460,,,"Salina, KS",,,0,0
+20,149,31740,,,"Manhattan, KS",,,1,0
+20,155,26740,,,"Hutchinson, KS",,,0,1
+20,161,31740,,,"Manhattan, KS",,,1,1
+20,169,41460,,,"Salina, KS",,,0,1
+20,173,48620,,556,"Wichita, KS",,"Wichita-Arkansas City-Winfield, KS",1,1
+20,175,30580,,,"Liberal, KS",,,0,1
+20,177,45820,,,"Topeka, KS",,,1,1
+20,191,48620,,556,"Wichita, KS",,"Wichita-Arkansas City-Winfield, KS",1,0
+20,197,45820,,,"Topeka, KS",,,1,0
+20,209,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+21,003,14540,,150,"Bowling Green, KY",,"Bowling Green-Glasgow-Franklin, KY",1,0
+21,005,23180,,336,"Frankfort, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,0
+21,007,37140,,424,"Paducah, KY-IL",,"Paducah-Mayfield, KY-IL",1,0
+21,009,23980,,150,"Glasgow, KY",,"Bowling Green-Glasgow-Franklin, KY",0,1
+21,011,34460,,336,"Mount Sterling, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,0
+21,013,33180,,371,"Middlesborough, KY",,"Middlesborough-Corbin, KY",0,1
+21,015,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+21,017,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,0
+21,019,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+21,021,19220,,,"Danville, KY",,,0,1
+21,023,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+21,029,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+21,031,14540,,150,"Bowling Green, KY",,"Bowling Green-Glasgow-Franklin, KY",1,0
+21,035,34660,,,"Murray, KY",,,0,1
+21,037,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+21,039,37140,,424,"Paducah, KY-IL",,"Paducah-Mayfield, KY-IL",1,0
+21,043,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,0
+21,047,17300,,,"Clarksville, TN-KY",,,1,0
+21,049,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,0
+21,051,18340,,371,"Corbin, KY",,"Middlesborough-Corbin, KY",0,0
+21,059,36980,,,"Owensboro, KY",,,1,1
+21,061,14540,,150,"Bowling Green, KY",,"Bowling Green-Glasgow-Franklin, KY",1,0
+21,065,40080,,336,"Richmond-Berea, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,0
+21,067,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,1
+21,071,38210,,,"Pikeville, KY",,,0,0
+21,073,23180,,336,"Frankfort, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,1
+21,077,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+21,081,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+21,083,32460,,424,"Mayfield, KY",,"Paducah-Mayfield, KY-IL",0,1
+21,087,15820,,,"Campbellsville, KY",,,0,0
+21,089,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+21,093,21060,,350,"Elizabethtown, KY",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+21,101,25775,,241,"Henderson, KY",,"Evansville-Henderson, IN-KY",0,1
+21,103,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,107,31580,,,"Madisonville, KY",,,0,1
+21,111,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+21,113,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,0
+21,117,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+21,121,18340,,371,"Corbin, KY",,"Middlesborough-Corbin, KY",0,1
+21,123,21060,,350,"Elizabethtown, KY",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,125,18340,,371,"Corbin, KY",,"Middlesborough-Corbin, KY",0,1
+21,127,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,0
+21,137,19220,,,"Danville, KY",,,0,0
+21,139,37140,,424,"Paducah, KY-IL",,"Paducah-Mayfield, KY-IL",1,0
+21,145,37140,,424,"Paducah, KY-IL",,"Paducah-Mayfield, KY-IL",1,1
+21,149,36980,,,"Owensboro, KY",,,1,0
+21,151,40080,,336,"Richmond-Berea, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,1
+21,163,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,165,34460,,336,"Mount Sterling, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,0
+21,169,23980,,150,"Glasgow, KY",,"Bowling Green-Glasgow-Franklin, KY",0,0
+21,173,34460,,336,"Mount Sterling, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,1
+21,179,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,185,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,1
+21,191,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+21,195,38210,,,"Pikeville, KY",,,0,1
+21,199,43700,,,"Somerset, KY",,,0,1
+21,203,40080,,336,"Richmond-Berea, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",0,0
+21,209,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,0
+21,211,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,213,23190,,150,"Franklin, KY",,"Bowling Green-Glasgow-Franklin, KY",0,1
+21,215,31140,,350,"Louisville/Jefferson County, KY-IN",,"Louisville/Jefferson County--Elizabethtown, KY-IN",1,0
+21,217,15820,,,"Campbellsville, KY",,,0,1
+21,221,17300,,,"Clarksville, TN-KY",,,1,0
+21,227,14540,,150,"Bowling Green, KY",,"Bowling Green-Glasgow-Franklin, KY",1,1
+21,233,25775,,241,"Henderson, KY",,"Evansville-Henderson, IN-KY",0,0
+21,235,18340,,371,"Corbin, KY",,"Middlesborough-Corbin, KY",0,1
+21,239,30460,,336,"Lexington-Fayette, KY",,"Lexington-Fayette--Richmond--Frankfort, KY",1,0
+22,001,29180,,318,"Lafayette, LA",,"Lafayette-New Iberia-Opelousas, LA",1,0
+22,005,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,1
+22,007,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,0
+22,011,19760,,324,"DeRidder, LA",,"Lake Charles-DeRidder, LA",0,1
+22,015,43340,,508,"Shreveport-Bossier City, LA",,"Shreveport-Bossier City-Minden, LA",1,1
+22,017,43340,,508,"Shreveport-Bossier City, LA",,"Shreveport-Bossier City-Minden, LA",1,1
+22,019,29340,,324,"Lake Charles, LA",,"Lake Charles-DeRidder, LA",1,1
+22,023,29340,,324,"Lake Charles, LA",,"Lake Charles-DeRidder, LA",1,0
+22,029,35020,,,"Natchez, MS-LA",,,0,1
+22,031,43340,,508,"Shreveport-Bossier City, LA",,"Shreveport-Bossier City-Minden, LA",1,0
+22,033,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,1
+22,037,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,0
+22,043,10780,,,"Alexandria, LA",,,1,0
+22,045,35340,,318,"New Iberia, LA",,"Lafayette-New Iberia-Opelousas, LA",0,1
+22,047,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,1
+22,051,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,053,29340,,324,"Lake Charles, LA",,"Lake Charles-DeRidder, LA",1,0
+22,055,29180,,318,"Lafayette, LA",,"Lafayette-New Iberia-Opelousas, LA",1,1
+22,057,26380,,,"Houma-Bayou Cane-Thibodaux, LA",,,1,1
+22,061,40820,,384,"Ruston, LA",,"Monroe-Ruston, LA",0,1
+22,063,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,1
+22,067,33740,,384,"Monroe, LA",,"Monroe-Ruston, LA",1,0
+22,069,35060,,,"Natchitoches, LA",,,0,1
+22,071,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,073,33740,,384,"Monroe, LA",,"Monroe-Ruston, LA",1,1
+22,075,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,077,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,0
+22,079,10780,,,"Alexandria, LA",,,1,1
+22,083,33740,,384,"Monroe, LA",,"Monroe-Ruston, LA",1,0
+22,087,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,089,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,091,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,0
+22,093,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,095,35380,,406,"New Orleans-Metairie, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,097,36660,,318,"Opelousas, LA",,"Lafayette-New Iberia-Opelousas, LA",0,1
+22,099,29180,,318,"Lafayette, LA",,"Lafayette-New Iberia-Opelousas, LA",1,0
+22,101,34020,,,"Morgan City, LA",,,0,1
+22,103,43640,,406,"Slidell-Mandeville-Covington, LA",,"New Orleans-Metairie-Slidell, LA-MS",1,1
+22,105,25220,,132,"Hammond, LA",,"Baton Rouge-Hammond, LA",1,1
+22,109,26380,,,"Houma-Bayou Cane-Thibodaux, LA",,,1,1
+22,111,33740,,384,"Monroe, LA",,"Monroe-Ruston, LA",1,0
+22,113,29180,,318,"Lafayette, LA",,"Lafayette-New Iberia-Opelousas, LA",1,0
+22,117,14220,,406,"Bogalusa, LA",,"New Orleans-Metairie-Slidell, LA-MS",0,1
+22,119,33380,,508,"Minden, LA",,"Shreveport-Bossier City-Minden, LA",0,1
+22,121,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,1
+22,125,12940,,132,"Baton Rouge, LA",,"Baton Rouge-Hammond, LA",1,0
+23,001,30340,,438,"Lewiston-Auburn, ME",,"Portland-Lewiston-South Portland, ME",1,1
+23,005,38860,,438,"Portland-South Portland, ME",,"Portland-Lewiston-South Portland, ME",1,1
+23,011,12300,,,"Augusta-Waterville, ME",,,0,1
+23,019,12620,,,"Bangor, ME",,,1,1
+23,023,38860,,438,"Portland-South Portland, ME",,"Portland-Lewiston-South Portland, ME",1,0
+23,031,38860,,438,"Portland-South Portland, ME",,"Portland-Lewiston-South Portland, ME",1,1
+24,001,19060,,,"Cumberland, MD-WV",,,0,1
+24,003,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,005,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,009,30500,,548,"Lexington Park, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,013,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+24,015,37980,48864,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+24,017,47900,47764,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington, DC-MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+24,019,15700,,548,"Cambridge, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",0,1
+24,021,47900,23224,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Frederick-Gaithersburg-Bethesda, MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+24,025,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+24,027,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,031,47900,23224,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Frederick-Gaithersburg-Bethesda, MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,033,47900,47764,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Washington, DC-MD","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,035,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+24,037,30500,,548,"Lexington Park, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,039,41540,,480,"Salisbury, MD",,"Salisbury-Ocean Pines, MD",1,0
+24,041,20660,,548,"Easton, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",0,1
+24,043,25180,,548,"Hagerstown-Martinsburg, MD-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+24,045,41540,,480,"Salisbury, MD",,"Salisbury-Ocean Pines, MD",1,1
+24,047,36180,,480,"Ocean Pines, MD",,"Salisbury-Ocean Pines, MD",0,1
+24,510,12580,,548,"Baltimore-Columbia-Towson, MD",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+25,001,12700,,148,"Barnstable Town, MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+25,003,38340,,,"Pittsfield, MA",,,1,1
+25,005,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+25,007,47240,,,"Vineyard Haven, MA",,,0,1
+25,009,14460,15764,148,"Boston-Cambridge-Newton, MA-NH","Cambridge-Newton-Framingham, MA","Boston-Worcester-Providence, MA-RI-NH",1,1
+25,011,24640,,521,"Greenfield, MA",,"Springfield-Amherst Town-Northampton, MA",0,1
+25,013,44140,,521,"Springfield, MA",,"Springfield-Amherst Town-Northampton, MA",1,1
+25,015,11200,,521,"Amherst Town-Northampton, MA",,"Springfield-Amherst Town-Northampton, MA",1,1
+25,017,14460,15764,148,"Boston-Cambridge-Newton, MA-NH","Cambridge-Newton-Framingham, MA","Boston-Worcester-Providence, MA-RI-NH",1,1
+25,019,34880,,,"Nantucket, MA",,,0,1
+25,021,14460,14454,148,"Boston-Cambridge-Newton, MA-NH","Boston, MA","Boston-Worcester-Providence, MA-RI-NH",1,1
+25,023,14460,14454,148,"Boston-Cambridge-Newton, MA-NH","Boston, MA","Boston-Worcester-Providence, MA-RI-NH",1,1
+25,025,14460,14454,148,"Boston-Cambridge-Newton, MA-NH","Boston, MA","Boston-Worcester-Providence, MA-RI-NH",1,1
+25,027,49340,,148,"Worcester, MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+26,005,26090,,266,"Holland, MI",,"Grand Rapids-Wyoming, MI",0,1
+26,007,10980,,,"Alpena, MI",,,0,1
+26,015,24340,,266,"Grand Rapids-Wyoming-Kentwood, MI",,"Grand Rapids-Wyoming, MI",1,0
+26,017,13020,,474,"Bay City, MI",,"Saginaw-Midland-Bay City, MI",1,1
+26,019,45900,,,"Traverse City, MI",,,1,0
+26,021,35660,,515,"Niles, MI",,"South Bend-Elkhart-Mishawaka, IN-MI",1,1
+26,023,17740,,,"Coldwater, MI",,,0,1
+26,025,12980,,310,"Battle Creek, MI",,"Kalamazoo-Battle Creek-Portage, MI",1,1
+26,027,43780,,515,"South Bend-Mishawaka, IN-MI",,"South Bend-Elkhart-Mishawaka, IN-MI",1,1
+26,033,42300,,,"Sault Ste. Marie, MI",,,0,1
+26,037,29620,,330,"Lansing-East Lansing, MI",,"Lansing-East Lansing-Owosso, MI",1,1
+26,041,21540,,,"Escanaba, MI",,,0,1
+26,043,27020,,361,"Iron Mountain, MI-WI",,"Marinette-Iron Mountain, WI-MI",0,1
+26,045,29620,,330,"Lansing-East Lansing, MI",,"Lansing-East Lansing-Owosso, MI",1,1
+26,047,37950,,,"Petoskey, MI",,,0,1
+26,049,22420,,220,"Flint, MI",,"Detroit-Warren-Ann Arbor, MI",1,1
+26,055,45900,,,"Traverse City, MI",,,1,1
+26,057,10940,,394,"Alma, MI",,"Mount Pleasant-Alma, MI",0,1
+26,059,25880,,,"Hillsdale, MI",,,0,1
+26,061,26340,,,"Houghton, MI",,,0,1
+26,065,29620,,330,"Lansing-East Lansing, MI",,"Lansing-East Lansing-Owosso, MI",1,1
+26,067,24340,,266,"Grand Rapids-Wyoming-Kentwood, MI",,"Grand Rapids-Wyoming, MI",1,0
+26,073,34380,,394,"Mount Pleasant, MI",,"Mount Pleasant-Alma, MI",0,1
+26,075,27100,,,"Jackson, MI",,,1,1
+26,077,28020,,310,"Kalamazoo-Portage, MI",,"Kalamazoo-Battle Creek-Portage, MI",1,1
+26,079,45900,,,"Traverse City, MI",,,1,0
+26,081,24340,,266,"Grand Rapids-Wyoming-Kentwood, MI",,"Grand Rapids-Wyoming, MI",1,1
+26,083,26340,,,"Houghton, MI",,,0,0
+26,087,19820,47664,220,"Detroit-Warren-Dearborn, MI","Warren-Troy-Farmington Hills, MI","Detroit-Warren-Ann Arbor, MI",1,0
+26,089,45900,,,"Traverse City, MI",,,1,0
+26,091,10300,,220,"Adrian, MI",,"Detroit-Warren-Ann Arbor, MI",0,1
+26,093,19820,47664,220,"Detroit-Warren-Dearborn, MI","Warren-Troy-Farmington Hills, MI","Detroit-Warren-Ann Arbor, MI",1,0
+26,099,19820,47664,220,"Detroit-Warren-Dearborn, MI","Warren-Troy-Farmington Hills, MI","Detroit-Warren-Ann Arbor, MI",1,1
+26,103,32100,,,"Marquette, MI",,,0,1
+26,105,31220,,,"Ludington, MI",,,0,1
+26,107,13660,,266,"Big Rapids, MI",,"Grand Rapids-Wyoming, MI",0,1
+26,109,31940,,361,"Marinette, WI-MI",,"Marinette-Iron Mountain, WI-MI",0,1
+26,111,33220,,474,"Midland, MI",,"Saginaw-Midland-Bay City, MI",1,1
+26,113,15620,,,"Cadillac, MI",,,0,0
+26,115,33780,,220,"Monroe, MI",,"Detroit-Warren-Ann Arbor, MI",1,1
+26,117,24340,,266,"Grand Rapids-Wyoming-Kentwood, MI",,"Grand Rapids-Wyoming, MI",1,0
+26,121,34740,,266,"Muskegon-Norton Shores, MI",,"Grand Rapids-Wyoming, MI",1,1
+26,125,19820,47664,220,"Detroit-Warren-Dearborn, MI","Warren-Troy-Farmington Hills, MI","Detroit-Warren-Ann Arbor, MI",1,1
+26,139,24340,,266,"Grand Rapids-Wyoming-Kentwood, MI",,"Grand Rapids-Wyoming, MI",1,0
+26,145,40980,,474,"Saginaw, MI",,"Saginaw-Midland-Bay City, MI",1,1
+26,147,19820,47664,220,"Detroit-Warren-Dearborn, MI","Warren-Troy-Farmington Hills, MI","Detroit-Warren-Ann Arbor, MI",1,0
+26,149,44780,,310,"Sturgis, MI",,"Kalamazoo-Battle Creek-Portage, MI",0,1
+26,155,37020,,330,"Owosso, MI",,"Lansing-East Lansing-Owosso, MI",0,1
+26,161,11460,,220,"Ann Arbor, MI",,"Detroit-Warren-Ann Arbor, MI",1,1
+26,163,19820,19804,220,"Detroit-Warren-Dearborn, MI","Detroit-Dearborn-Livonia, MI","Detroit-Warren-Ann Arbor, MI",1,1
+26,165,15620,,,"Cadillac, MI",,,0,1
+27,003,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,005,19810,,,"Detroit Lakes, MN",,,0,1
+27,007,13420,,,"Bemidji, MN",,,0,1
+27,009,41060,,378,"St. Cloud, MN",,"Minneapolis-St. Paul, MN-WI",1,1
+27,013,31860,,359,"Mankato, MN",,"Mankato-New Ulm, MN",1,1
+27,015,35580,,359,"New Ulm, MN",,"Mankato-New Ulm, MN",0,1
+27,017,20260,,228,"Duluth, MN-WI",,"Duluth-Grand Rapids, MN-WI",1,0
+27,019,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,021,14660,,,"Brainerd, MN",,,0,0
+27,025,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+27,027,22020,,244,"Fargo, ND-MN",,"Fargo-Wahpeton, ND-MN",1,1
+27,035,14660,,,"Brainerd, MN",,,0,1
+27,037,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,039,40340,,462,"Rochester, MN",,"Rochester-Austin-Winona, MN",1,0
+27,041,10820,,,"Alexandria, MN",,,0,1
+27,045,40340,,462,"Rochester, MN",,"Rochester-Austin-Winona, MN",1,0
+27,047,10660,,,"Albert Lea, MN",,,0,1
+27,049,39860,,378,"Red Wing, MN",,"Minneapolis-St. Paul, MN-WI",0,1
+27,053,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,055,29100,,317,"La Crosse-Onalaska, WI-MN",,"La Crosse-Onalaska-Sparta, WI-MN",1,1
+27,059,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+27,061,24330,,228,"Grand Rapids, MN",,"Duluth-Grand Rapids, MN-WI",0,1
+27,067,48820,,,"Willmar, MN",,,0,1
+27,079,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+27,083,32140,,,"Marshall, MN",,,0,1
+27,085,26780,,378,"Hutchinson, MN",,"Minneapolis-St. Paul, MN-WI",0,1
+27,091,21860,,,"Fairmont, MN",,,0,1
+27,095,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+27,099,12380,,462,"Austin, MN",,"Rochester-Austin-Winona, MN",0,1
+27,103,31860,,359,"Mankato, MN",,"Mankato-New Ulm, MN",1,1
+27,105,49380,,,"Worthington, MN",,,0,1
+27,109,40340,,462,"Rochester, MN",,"Rochester-Austin-Winona, MN",1,1
+27,111,22260,,,"Fergus Falls, MN",,,0,1
+27,119,24220,,,"Grand Forks, ND-MN",,,1,1
+27,123,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,131,22060,,378,"Faribault-Northfield, MN",,"Minneapolis-St. Paul, MN-WI",0,1
+27,133,43620,,,"Sioux Falls, SD-MN",,,1,0
+27,137,20260,,228,"Duluth, MN-WI",,"Duluth-Grand Rapids, MN-WI",1,1
+27,139,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,141,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,145,41060,,378,"St. Cloud, MN",,"Minneapolis-St. Paul, MN-WI",1,1
+27,147,36940,,378,"Owatonna, MN",,"Minneapolis-St. Paul, MN-WI",0,1
+27,157,40340,,462,"Rochester, MN",,"Rochester-Austin-Winona, MN",1,0
+27,163,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+27,167,47420,,244,"Wahpeton, ND-MN",,"Fargo-Wahpeton, ND-MN",0,1
+27,169,49100,,462,"Winona, MN",,"Rochester-Austin-Winona, MN",0,1
+27,171,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,1
+28,001,35020,,,"Natchez, MS-LA",,,0,1
+28,003,18420,,539,"Corinth, MS",,"Tupelo-Corinth, MS",0,1
+28,009,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+28,011,17380,,,"Cleveland, MS",,,0,1
+28,015,24900,,,"Greenwood, MS",,,0,0
+28,023,32940,,,"Meridian, MS",,,0,0
+28,027,17260,,368,"Clarksdale, MS",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",0,1
+28,029,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,0
+28,033,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,1
+28,035,25620,,279,"Hattiesburg, MS",,"Hattiesburg-Laurel, MS",1,1
+28,043,24980,,,"Grenada, MS",,,0,1
+28,045,25060,,,"Gulfport-Biloxi, MS",,,1,1
+28,047,25060,,,"Gulfport-Biloxi, MS",,,1,1
+28,049,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,1
+28,051,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,0
+28,057,46180,,539,"Tupelo, MS",,"Tupelo-Corinth, MS",0,0
+28,059,25060,,,"Gulfport-Biloxi, MS",,,1,0
+28,061,29860,,279,"Laurel, MS",,"Hattiesburg-Laurel, MS",0,0
+28,063,35020,,,"Natchez, MS-LA",,,0,0
+28,067,29860,,279,"Laurel, MS",,"Hattiesburg-Laurel, MS",0,1
+28,071,37060,,,"Oxford, MS",,,0,1
+28,073,25620,,279,"Hattiesburg, MS",,"Hattiesburg-Laurel, MS",1,1
+28,075,32940,,,"Meridian, MS",,,0,1
+28,081,46180,,539,"Tupelo, MS",,"Tupelo-Corinth, MS",0,1
+28,083,24900,,,"Greenwood, MS",,,0,1
+28,085,15020,,298,"Brookhaven, MS",,"Jackson-Vicksburg-Brookhaven, MS",0,1
+28,087,18060,,523,"Columbus, MS",,"Starkville-Columbus, MS",0,1
+28,089,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,1
+28,093,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+28,097,24980,,,"Grenada, MS",,,0,0
+28,103,18060,,523,"Columbus, MS",,"Starkville-Columbus, MS",0,0
+28,105,44260,,523,"Starkville, MS",,"Starkville-Columbus, MS",0,1
+28,109,38100,,406,"Picayune, MS",,"New Orleans-Metairie-Slidell, LA-MS",0,1
+28,111,25620,,279,"Hattiesburg, MS",,"Hattiesburg-Laurel, MS",1,0
+28,113,32620,,,"McComb, MS",,,0,1
+28,117,46180,,539,"Tupelo, MS",,"Tupelo-Corinth, MS",0,0
+28,121,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,1
+28,123,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,0
+28,127,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,0
+28,131,25060,,,"Gulfport-Biloxi, MS",,,1,0
+28,137,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+28,143,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+28,147,32620,,,"McComb, MS",,,0,0
+28,149,46980,,298,"Vicksburg, MS",,"Jackson-Vicksburg-Brookhaven, MS",0,1
+28,151,24740,,,"Greenville, MS",,,0,1
+28,155,44260,,523,"Starkville, MS",,"Starkville-Columbus, MS",0,0
+28,161,37060,,,"Oxford, MS",,,0,0
+28,163,27140,,298,"Jackson, MS",,"Jackson-Vicksburg-Brookhaven, MS",1,0
+29,001,28860,,,"Kirksville, MO",,,0,1
+29,003,41140,,312,"St. Joseph, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,007,33020,,190,"Mexico, MO",,"Columbia-Jefferson City-Moberly, MO",0,1
+29,013,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,017,16020,,164,"Cape Girardeau, MO-IL",,"Cape Girardeau-Sikeston, MO-IL",1,0
+29,019,17860,,190,"Columbia, MO",,"Columbia-Jefferson City-Moberly, MO",1,1
+29,021,41140,,312,"St. Joseph, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+29,023,38740,,,"Poplar Bluff, MO",,,0,1
+29,025,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,027,27620,,190,"Jefferson City, MO",,"Columbia-Jefferson City-Moberly, MO",1,0
+29,031,16020,,164,"Cape Girardeau, MO-IL",,"Cape Girardeau-Sikeston, MO-IL",1,1
+29,037,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+29,043,44180,,,"Springfield, MO",,,1,1
+29,047,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+29,049,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,051,27620,,190,"Jefferson City, MO",,"Columbia-Jefferson City-Moberly, MO",1,1
+29,053,17860,,190,"Columbia, MO",,"Columbia-Jefferson City-Moberly, MO",1,0
+29,059,44180,,,"Springfield, MO",,,1,0
+29,063,41140,,312,"St. Joseph, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,069,28380,,,"Kennett, MO",,,0,1
+29,071,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+29,077,44180,,,"Springfield, MO",,,1,1
+29,089,17860,,190,"Columbia, MO",,"Columbia-Jefferson City-Moberly, MO",1,0
+29,091,48460,,,"West Plains, MO",,,0,1
+29,095,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+29,097,27900,,309,"Joplin, MO-KS",,"Joplin-Miami, MO-OK-KS",1,1
+29,099,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+29,101,47660,,312,"Warrensburg, MO",,"Kansas City-Overland Park-Kansas City, MO-KS",0,1
+29,105,30060,,,"Lebanon, MO",,,0,1
+29,107,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,111,39500,,448,"Quincy, IL-MO",,"Quincy-Hannibal, IL-MO",0,0
+29,113,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+29,127,25300,,448,"Hannibal, MO",,"Quincy-Hannibal, IL-MO",0,1
+29,133,43460,,164,"Sikeston, MO",,"Cape Girardeau-Sikeston, MO-IL",0,0
+29,135,27620,,190,"Jefferson City, MO",,"Columbia-Jefferson City-Moberly, MO",1,0
+29,145,27900,,309,"Joplin, MO-KS",,"Joplin-Miami, MO-OK-KS",1,0
+29,147,32340,,,"Maryville, MO",,,0,1
+29,151,27620,,190,"Jefferson City, MO",,"Columbia-Jefferson City-Moberly, MO",1,0
+29,159,42740,,,"Sedalia, MO",,,0,1
+29,161,40620,,,"Rolla, MO",,,0,1
+29,165,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,1
+29,167,44180,,,"Springfield, MO",,,1,0
+29,169,22780,,,"Fort Leonard Wood, MO",,,0,1
+29,173,25300,,448,"Hannibal, MO",,"Quincy-Hannibal, IL-MO",0,0
+29,175,33620,,190,"Moberly, MO",,"Columbia-Jefferson City-Moberly, MO",0,1
+29,177,28140,,312,"Kansas City, MO-KS",,"Kansas City-Overland Park-Kansas City, MO-KS",1,0
+29,183,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+29,187,22100,,476,"Farmington, MO",,"St. Louis-St. Charles-Farmington, MO-IL",0,1
+29,189,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+29,195,32180,,,"Marshall, MO",,,0,1
+29,197,28860,,,"Kirksville, MO",,,0,0
+29,201,43460,,164,"Sikeston, MO",,"Cape Girardeau-Sikeston, MO-IL",0,1
+29,213,14700,,,"Branson, MO",,,0,1
+29,219,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,0
+29,225,44180,,,"Springfield, MO",,,1,0
+29,510,41180,,476,"St. Louis, MO-IL",,"St. Louis-St. Charles-Farmington, MO-IL",1,1
+30,007,25740,,,"Helena, MT",,,1,0
+30,009,13740,,,"Billings, MT",,,1,0
+30,013,24500,,,"Great Falls, MT",,,1,1
+30,029,28060,,,"Kalispell, MT",,,0,1
+30,031,14580,,,"Bozeman, MT",,,1,1
+30,043,25740,,,"Helena, MT",,,1,0
+30,049,25740,,,"Helena, MT",,,1,1
+30,061,33540,,,"Missoula, MT",,,1,0
+30,063,33540,,,"Missoula, MT",,,1,1
+30,093,15580,,,"Butte-Silver Bow, MT",,,0,1
+30,095,13740,,,"Billings, MT",,,1,0
+30,111,13740,,,"Billings, MT",,,1,1
+31,001,25580,,,"Hastings, NE",,,0,1
+31,007,42420,,,"Scottsbluff, NE",,,0,0
+31,019,28260,,,"Kearney, NE",,,0,1
+31,025,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,0
+31,035,25580,,,"Hastings, NE",,,0,0
+31,037,18100,,,"Columbus, NE",,,0,0
+31,043,43580,,512,"Sioux City, IA-NE-SD",,"Sioux City-Le Mars, IA-NE-SD",1,1
+31,047,30420,,,"Lexington, NE",,,0,1
+31,053,23340,,420,"Fremont, NE",,"Omaha-Fremont, NE-IA",0,1
+31,055,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,1
+31,067,13100,,339,"Beatrice, NE",,"Lincoln-Beatrice, NE",0,1
+31,073,30420,,,"Lexington, NE",,,0,0
+31,079,24260,,,"Grand Island, NE",,,1,1
+31,093,24260,,,"Grand Island, NE",,,1,0
+31,099,28260,,,"Kearney, NE",,,0,0
+31,109,30700,,339,"Lincoln, NE",,"Lincoln-Beatrice, NE",1,1
+31,111,35820,,,"North Platte, NE",,,0,1
+31,113,35820,,,"North Platte, NE",,,0,0
+31,119,35740,,,"Norfolk, NE",,,0,1
+31,121,24260,,,"Grand Island, NE",,,1,0
+31,139,35740,,,"Norfolk, NE",,,0,0
+31,141,18100,,,"Columbus, NE",,,0,1
+31,153,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,1
+31,155,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,0
+31,157,42420,,,"Scottsbluff, NE",,,0,1
+31,159,30700,,339,"Lincoln, NE",,"Lincoln-Beatrice, NE",1,0
+31,167,35740,,,"Norfolk, NE",,,0,0
+31,177,36540,,420,"Omaha, NE-IA",,"Omaha-Fremont, NE-IA",1,0
+31,181,25580,,,"Hastings, NE",,,0,0
+32,001,21980,,456,"Fallon, NV",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",0,1
+32,003,29820,,332,"Las Vegas-Henderson-North Las Vegas, NV",,"Las Vegas-Henderson, NV",1,1
+32,005,23820,,456,"Gardnerville Ranchos, NV-CA",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",0,1
+32,007,21220,,,"Elko, NV",,,0,1
+32,011,21220,,,"Elko, NV",,,0,0
+32,013,49080,,,"Winnemucca, NV",,,0,1
+32,019,39900,,456,"Reno, NV",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",1,0
+32,023,37220,,332,"Pahrump, NV",,"Las Vegas-Henderson, NV",0,1
+32,029,39900,,456,"Reno, NV",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",1,0
+32,031,39900,,456,"Reno, NV",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",1,1
+32,510,16180,,456,"Carson City, NV",,"Reno-Carson City-Gardnerville Ranchos, NV-CA",1,1
+33,001,29060,,148,"Laconia, NH",,"Boston-Worcester-Providence, MA-RI-NH",0,1
+33,005,28300,,313,"Keene, NH",,"Keene-Brattleboro, NH-VT",0,1
+33,009,30150,,,"Lebanon-Claremont, NH-VT",,,0,1
+33,011,31700,,148,"Manchester-Nashua, NH",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+33,013,18180,,148,"Concord, NH",,"Boston-Worcester-Providence, MA-RI-NH",0,1
+33,015,14460,40484,148,"Boston-Cambridge-Newton, MA-NH","Rockingham County-Strafford County, NH","Boston-Worcester-Providence, MA-RI-NH",1,1
+33,017,14460,40484,148,"Boston-Cambridge-Newton, MA-NH","Rockingham County-Strafford County, NH","Boston-Worcester-Providence, MA-RI-NH",1,0
+33,019,30150,,,"Lebanon-Claremont, NH-VT",,,0,0
+34,001,12100,,428,"Atlantic City-Hammonton, NJ",,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,003,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,005,37980,15804,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,007,37980,15804,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,009,12100,,428,"Atlantic City-Hammonton, NJ",,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,011,47220,,428,"Vineland, NJ",,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,013,35620,35084,408,"New York-Newark-Jersey City, NY-NJ","Newark, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,015,37980,15804,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Camden, NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,017,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,019,35620,35084,408,"New York-Newark-Jersey City, NY-NJ","Newark, NJ","New York-Newark, NY-NJ-CT-PA",1,0
+34,021,45940,,408,"Trenton-Princeton, NJ",,"New York-Newark, NY-NJ-CT-PA",1,1
+34,023,35620,29484,408,"New York-Newark-Jersey City, NY-NJ","Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,025,35620,29484,408,"New York-Newark-Jersey City, NY-NJ","Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,027,35620,35084,408,"New York-Newark-Jersey City, NY-NJ","Newark, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,029,35620,29484,408,"New York-Newark-Jersey City, NY-NJ","Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,031,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,033,37980,48864,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Wilmington, DE-MD-NJ","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+34,035,35620,29484,408,"New York-Newark-Jersey City, NY-NJ","Lakewood-New Brunswick, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,037,35620,35084,408,"New York-Newark-Jersey City, NY-NJ","Newark, NJ","New York-Newark, NY-NJ-CT-PA",1,0
+34,039,35620,35084,408,"New York-Newark-Jersey City, NY-NJ","Newark, NJ","New York-Newark, NY-NJ-CT-PA",1,1
+34,041,10900,,106,"Allentown-Bethlehem-Easton, PA-NJ",,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",1,1
+35,001,10740,,105,"Albuquerque, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",1,1
+35,005,40740,,,"Roswell, NM",,,0,1
+35,009,17580,,,"Clovis, NM",,,0,1
+35,013,29740,,238,"Las Cruces, NM",,"El Paso-Las Cruces, TX-NM",1,1
+35,015,16100,,,"Carlsbad-Artesia, NM",,,0,1
+35,017,43500,,,"Silver City, NM",,,0,1
+35,025,26020,,,"Hobbs, NM",,,0,1
+35,027,40760,,,"Ruidoso, NM",,,0,1
+35,028,31060,,105,"Los Alamos, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",0,1
+35,029,19700,,,"Deming, NM",,,0,1
+35,031,23700,,,"Gallup, NM",,,0,1
+35,033,29780,,105,"Las Vegas, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",0,0
+35,035,10460,,,"Alamogordo, NM",,,0,1
+35,039,21580,,105,"Española, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",0,1
+35,041,17580,,,"Clovis, NM",,,0,0
+35,043,10740,,105,"Albuquerque, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",1,1
+35,045,22140,,,"Farmington, NM",,,1,1
+35,047,29780,,105,"Las Vegas, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",0,1
+35,049,42140,,105,"Santa Fe, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",1,1
+35,055,45340,,,"Taos, NM",,,0,1
+35,057,10740,,105,"Albuquerque, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",1,0
+35,061,10740,,105,"Albuquerque, NM",,"Albuquerque-Santa Fe-Los Alamos, NM",1,0
+36,001,10580,,104,"Albany-Schenectady-Troy, NY",,"Albany-Schenectady, NY",1,1
+36,005,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,007,13780,,,"Binghamton, NY",,,1,1
+36,009,36460,,160,"Olean, NY",,"Buffalo-Cheektowaga-Olean, NY",0,1
+36,011,12180,,532,"Auburn, NY",,"Syracuse-Auburn, NY",0,1
+36,013,27460,,,"Jamestown-Dunkirk, NY",,,0,1
+36,015,21300,,236,"Elmira, NY",,"Elmira-Corning, NY",1,1
+36,019,38460,,,"Plattsburgh, NY",,,0,1
+36,021,26460,,104,"Hudson, NY",,"Albany-Schenectady, NY",0,1
+36,023,18660,,296,"Cortland, NY",,"Ithaca-Cortland, NY",0,1
+36,027,28880,,408,"Kiryas Joel-Poughkeepsie-Newburgh, NY",,"New York-Newark, NY-NJ-CT-PA",1,1
+36,029,15380,,160,"Buffalo-Cheektowaga, NY",,"Buffalo-Cheektowaga-Olean, NY",1,1
+36,035,24100,,104,"Gloversville, NY",,"Albany-Schenectady, NY",0,1
+36,037,12860,,464,"Batavia, NY",,"Rochester-Batavia-Seneca Falls, NY",0,1
+36,043,46540,,,"Utica-Rome, NY",,,1,0
+36,045,48060,,,"Watertown-Fort Drum, NY",,,1,1
+36,047,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,051,40380,,464,"Rochester, NY",,"Rochester-Batavia-Seneca Falls, NY",1,0
+36,053,45060,,532,"Syracuse, NY",,"Syracuse-Auburn, NY",1,0
+36,055,40380,,464,"Rochester, NY",,"Rochester-Batavia-Seneca Falls, NY",1,1
+36,057,11220,,104,"Amsterdam, NY",,"Albany-Schenectady, NY",0,1
+36,059,35620,35004,408,"New York-Newark-Jersey City, NY-NJ","Nassau County-Suffolk County, NY","New York-Newark, NY-NJ-CT-PA",1,1
+36,061,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,063,15380,,160,"Buffalo-Cheektowaga, NY",,"Buffalo-Cheektowaga-Olean, NY",1,1
+36,065,46540,,,"Utica-Rome, NY",,,1,1
+36,067,45060,,532,"Syracuse, NY",,"Syracuse-Auburn, NY",1,1
+36,069,40380,,464,"Rochester, NY",,"Rochester-Batavia-Seneca Falls, NY",1,1
+36,071,28880,,408,"Kiryas Joel-Poughkeepsie-Newburgh, NY",,"New York-Newark, NY-NJ-CT-PA",1,1
+36,073,40380,,464,"Rochester, NY",,"Rochester-Batavia-Seneca Falls, NY",1,0
+36,075,45060,,532,"Syracuse, NY",,"Syracuse-Auburn, NY",1,0
+36,077,36580,,,"Oneonta, NY",,,0,1
+36,079,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,081,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,083,10580,,104,"Albany-Schenectady-Troy, NY",,"Albany-Schenectady, NY",1,1
+36,085,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,087,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+36,089,32390,,,"Massena-Ogdensburg, NY",,,0,1
+36,091,10580,,104,"Albany-Schenectady-Troy, NY",,"Albany-Schenectady, NY",1,0
+36,093,10580,,104,"Albany-Schenectady-Troy, NY",,"Albany-Schenectady, NY",1,1
+36,095,10580,,104,"Albany-Schenectady-Troy, NY",,"Albany-Schenectady, NY",1,0
+36,099,42900,,464,"Seneca Falls, NY",,"Rochester-Batavia-Seneca Falls, NY",0,1
+36,101,18500,,236,"Corning, NY",,"Elmira-Corning, NY",0,1
+36,103,35620,35004,408,"New York-Newark-Jersey City, NY-NJ","Nassau County-Suffolk County, NY","New York-Newark, NY-NJ-CT-PA",1,1
+36,105,33910,,408,"Monticello, NY",,"New York-Newark, NY-NJ-CT-PA",0,1
+36,107,13780,,,"Binghamton, NY",,,1,1
+36,109,27060,,296,"Ithaca, NY",,"Ithaca-Cortland, NY",1,1
+36,111,28740,,408,"Kingston, NY",,"New York-Newark, NY-NJ-CT-PA",1,1
+36,113,24020,,104,"Glens Falls, NY",,"Albany-Schenectady, NY",1,1
+36,115,24020,,104,"Glens Falls, NY",,"Albany-Schenectady, NY",1,1
+36,117,40380,,464,"Rochester, NY",,"Rochester-Batavia-Seneca Falls, NY",1,0
+36,119,35620,35614,408,"New York-Newark-Jersey City, NY-NJ","New York-Jersey City-White Plains, NY-NJ","New York-Newark, NY-NJ-CT-PA",1,1
+37,001,15500,,268,"Burlington, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,003,25860,,172,"Hickory-Lenoir-Morganton, NC",,"Charlotte-Concord, NC-SC",1,0
+37,007,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+37,013,47820,,274,"Washington, NC",,"Greenville-Washington, NC",0,1
+37,019,48900,,,"Wilmington, NC",,,1,1
+37,021,11700,,120,"Asheville, NC",,"Asheville-Waynesville-Brevard, NC",1,1
+37,023,25860,,172,"Hickory-Lenoir-Morganton, NC",,"Charlotte-Concord, NC-SC",1,1
+37,025,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+37,027,25860,,172,"Hickory-Lenoir-Morganton, NC",,"Charlotte-Concord, NC-SC",1,1
+37,029,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+37,031,33980,,404,"Morehead City, NC",,"New Bern-Morehead City, NC",0,1
+37,035,25860,,172,"Hickory-Lenoir-Morganton, NC",,"Charlotte-Concord, NC-SC",1,1
+37,037,20500,,450,"Durham-Chapel Hill, NC",,"Raleigh-Durham-Cary, NC",1,1
+37,045,43140,,172,"Shelby-Kings Mountain, NC",,"Charlotte-Concord, NC-SC",0,1
+37,049,35100,,404,"New Bern, NC",,"New Bern-Morehead City, NC",0,1
+37,051,22180,,246,"Fayetteville, NC",,"Fayetteville-Lumberton-Pinehurst, NC",1,1
+37,053,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+37,055,28620,,545,"Kill Devil Hills, NC",,"Virginia Beach-Chesapeake, VA-NC",0,1
+37,057,49180,,268,"Winston-Salem, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,059,49180,,268,"Winston-Salem, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,063,20500,,450,"Durham-Chapel Hill, NC",,"Raleigh-Durham-Cary, NC",1,1
+37,065,40580,,468,"Rocky Mount, NC",,"Rocky Mount-Wilson-Roanoke Rapids, NC",1,1
+37,067,49180,,268,"Winston-Salem, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,069,39580,,450,"Raleigh-Cary, NC",,"Raleigh-Durham-Cary, NC",1,1
+37,071,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+37,073,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+37,081,24660,,268,"Greensboro-High Point, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,083,40260,,468,"Roanoke Rapids, NC",,"Rocky Mount-Wilson-Roanoke Rapids, NC",0,1
+37,085,11360,,450,"Anderson Creek, NC",,"Raleigh-Durham-Cary, NC",0,1
+37,087,48200,,120,"Waynesville, NC",,"Asheville-Waynesville-Brevard, NC",0,1
+37,089,11700,,120,"Asheville, NC",,"Asheville-Waynesville-Brevard, NC",1,1
+37,093,22180,,246,"Fayetteville, NC",,"Fayetteville-Lumberton-Pinehurst, NC",1,1
+37,097,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,1
+37,101,39580,,450,"Raleigh-Cary, NC",,"Raleigh-Durham-Cary, NC",1,0
+37,103,35100,,404,"New Bern, NC",,"New Bern-Morehead City, NC",0,0
+37,105,41820,,450,"Sanford, NC",,"Raleigh-Durham-Cary, NC",0,1
+37,107,28820,,,"Kinston, NC",,,0,1
+37,109,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+37,111,32000,,172,"Marion, NC",,"Charlotte-Concord, NC-SC",0,1
+37,115,11700,,120,"Asheville, NC",,"Asheville-Waynesville-Brevard, NC",1,0
+37,119,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,1
+37,125,38240,,246,"Pinehurst-Southern Pines, NC",,"Fayetteville-Lumberton-Pinehurst, NC",1,1
+37,127,40580,,468,"Rocky Mount, NC",,"Rocky Mount-Wilson-Roanoke Rapids, NC",1,1
+37,129,48900,,,"Wilmington, NC",,,1,1
+37,131,40260,,468,"Roanoke Rapids, NC",,"Rocky Mount-Wilson-Roanoke Rapids, NC",0,0
+37,133,27340,,,"Jacksonville, NC",,,1,1
+37,135,20500,,450,"Durham-Chapel Hill, NC",,"Raleigh-Durham-Cary, NC",1,1
+37,137,35100,,404,"New Bern, NC",,"New Bern-Morehead City, NC",0,0
+37,139,21020,,545,"Elizabeth City, NC",,"Virginia Beach-Chesapeake, VA-NC",0,1
+37,141,48900,,,"Wilmington, NC",,,1,0
+37,145,20500,,450,"Durham-Chapel Hill, NC",,"Raleigh-Durham-Cary, NC",1,0
+37,147,24780,,274,"Greenville, NC",,"Greenville-Washington, NC",1,1
+37,151,24660,,268,"Greensboro-High Point, NC",,"Greensboro--Winston-Salem--High Point, NC",1,0
+37,153,40460,,246,"Rockingham, NC",,"Fayetteville-Lumberton-Pinehurst, NC",0,1
+37,155,31300,,246,"Lumberton, NC",,"Fayetteville-Lumberton-Pinehurst, NC",0,1
+37,157,24660,,268,"Greensboro-High Point, NC",,"Greensboro--Winston-Salem--High Point, NC",1,0
+37,159,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+37,161,22580,,,"Forest City, NC",,,0,1
+37,165,29900,,246,"Laurinburg, NC",,"Fayetteville-Lumberton-Pinehurst, NC",0,1
+37,167,10620,,172,"Albemarle, NC",,"Charlotte-Concord, NC-SC",0,1
+37,169,49180,,268,"Winston-Salem, NC",,"Greensboro--Winston-Salem--High Point, NC",1,1
+37,171,34340,,268,"Mount Airy, NC",,"Greensboro--Winston-Salem--High Point, NC",0,1
+37,175,14820,,120,"Brevard, NC",,"Asheville-Waynesville-Brevard, NC",0,1
+37,179,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,1
+37,181,25780,,450,"Henderson, NC",,"Raleigh-Durham-Cary, NC",0,1
+37,183,39580,,450,"Raleigh-Cary, NC",,"Raleigh-Durham-Cary, NC",1,1
+37,189,14380,,,"Boone, NC",,,0,1
+37,191,24140,,,"Goldsboro, NC",,,1,1
+37,193,35900,,,"North Wilkesboro, NC",,,0,1
+37,195,48980,,468,"Wilson, NC",,"Rocky Mount-Wilson-Roanoke Rapids, NC",0,1
+37,197,49180,,268,"Winston-Salem, NC",,"Greensboro--Winston-Salem--High Point, NC",1,0
+38,007,19860,,,"Dickinson, ND",,,0,0
+38,015,13900,,,"Bismarck, ND",,,1,1
+38,017,22020,,244,"Fargo, ND-MN",,"Fargo-Wahpeton, ND-MN",1,1
+38,025,19860,,,"Dickinson, ND",,,0,0
+38,035,24220,,,"Grand Forks, ND-MN",,,1,1
+38,049,33500,,,"Minot, ND",,,1,0
+38,059,13900,,,"Bismarck, ND",,,1,1
+38,065,13900,,,"Bismarck, ND",,,1,0
+38,075,33500,,,"Minot, ND",,,1,0
+38,077,47420,,244,"Wahpeton, ND-MN",,"Fargo-Wahpeton, ND-MN",0,1
+38,089,19860,,,"Dickinson, ND",,,0,1
+38,093,27420,,,"Jamestown, ND",,,0,1
+38,101,33500,,,"Minot, ND",,,1,1
+38,105,48780,,,"Williston, ND",,,0,1
+39,003,30620,,338,"Lima, OH",,"Lima-Van Wert-Celina, OH",1,1
+39,005,11740,,360,"Ashland, OH",,"Mansfield-Ashland-Bucyrus, OH",0,1
+39,007,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,0
+39,009,11900,,198,"Athens, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,011,47540,,338,"Wapakoneta, OH",,"Lima-Van Wert-Celina, OH",0,1
+39,013,48540,,,"Wheeling, WV-OH",,,1,1
+39,015,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,0
+39,017,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+39,019,15940,,184,"Canton-Massillon, OH",,"Cleveland-Akron-Canton, OH",1,0
+39,021,46500,,212,"Urbana, OH",,"Dayton-Springfield-Kettering, OH",0,1
+39,023,44220,,212,"Springfield, OH",,"Dayton-Springfield-Kettering, OH",1,1
+39,025,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+39,027,48940,,178,"Wilmington, OH",,"Cincinnati-Wilmington, OH-KY-IN",0,1
+39,029,41400,,566,"Salem, OH",,"Youngstown-Warren-Salem, OH",0,1
+39,031,18740,,184,"Coshocton, OH",,"Cleveland-Akron-Canton, OH",0,1
+39,033,15340,,360,"Bucyrus, OH",,"Mansfield-Ashland-Bucyrus, OH",0,1
+39,035,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,037,24820,,212,"Greenville, OH",,"Dayton-Springfield-Kettering, OH",0,1
+39,039,19580,,,"Defiance, OH",,,0,1
+39,041,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,1
+39,043,41780,,184,"Sandusky, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,045,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,1
+39,047,47920,,198,"Washington Court House, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,049,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,1
+39,051,45780,,,"Toledo, OH",,,1,0
+39,053,23680,,,"Gallipolis, OH",,,0,1
+39,055,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,057,19430,,212,"Dayton-Kettering-Beavercreek, OH",,"Dayton-Springfield-Kettering, OH",1,1
+39,059,15740,,198,"Cambridge, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,061,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+39,063,22300,,248,"Findlay, OH",,"Findlay-Tiffin, OH",0,1
+39,073,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,077,35940,,184,"Norwalk, OH",,"Cleveland-Akron-Canton, OH",0,1
+39,081,48260,,430,"Weirton-Steubenville, WV-OH",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+39,083,34540,,198,"Mount Vernon, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,085,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,087,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+39,089,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,091,13340,,198,"Bellefontaine, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,093,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,0
+39,095,45780,,,"Toledo, OH",,,1,1
+39,097,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,099,49660,,566,"Youngstown-Warren, OH",,"Youngstown-Warren-Salem, OH",1,1
+39,101,32020,,198,"Marion, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,103,17410,,184,"Cleveland, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,107,16380,,338,"Celina, OH",,"Lima-Van Wert-Celina, OH",0,1
+39,109,19430,,212,"Dayton-Kettering-Beavercreek, OH",,"Dayton-Springfield-Kettering, OH",1,0
+39,113,19430,,212,"Dayton-Kettering-Beavercreek, OH",,"Dayton-Springfield-Kettering, OH",1,1
+39,117,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,119,49780,,198,"Zanesville, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,123,41780,,184,"Sandusky, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,127,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,129,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,133,10420,,184,"Akron, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,139,31900,,360,"Mansfield, OH",,"Mansfield-Ashland-Bucyrus, OH",1,1
+39,141,17060,,198,"Chillicothe, OH",,"Columbus-Marion-Zanesville, OH",0,1
+39,143,23380,,184,"Fremont, OH",,"Cleveland-Akron-Canton, OH",0,1
+39,145,39020,,170,"Portsmouth, OH",,"Charleston-Huntington-Ashland, WV-OH-KY",0,1
+39,147,45660,,248,"Tiffin, OH",,"Findlay-Tiffin, OH",0,1
+39,149,43380,,212,"Sidney, OH",,"Dayton-Springfield-Kettering, OH",0,1
+39,151,15940,,184,"Canton-Massillon, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,153,10420,,184,"Akron, OH",,"Cleveland-Akron-Canton, OH",1,1
+39,155,49660,,566,"Youngstown-Warren, OH",,"Youngstown-Warren-Salem, OH",1,1
+39,157,35420,,184,"New Philadelphia-Dover, OH",,"Cleveland-Akron-Canton, OH",0,1
+39,159,18140,,198,"Columbus, OH",,"Columbus-Marion-Zanesville, OH",1,0
+39,161,46780,,338,"Van Wert, OH",,"Lima-Van Wert-Celina, OH",0,1
+39,165,17140,,178,"Cincinnati, OH-KY-IN",,"Cincinnati-Wilmington, OH-KY-IN",1,1
+39,167,31930,,425,"Marietta, OH",,"Parkersburg-Marietta-Vienna, WV-OH",0,1
+39,169,49300,,184,"Wooster, OH",,"Cleveland-Akron-Canton, OH",0,1
+39,173,45780,,,"Toledo, OH",,,1,1
+40,009,21120,,555,"Elk City, OK",,"Weatherford-Elk City, OK",0,1
+40,013,20460,,206,"Durant, OK",,"Dallas-Fort Worth, TX-OK",0,1
+40,017,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,1
+40,019,11620,,,"Ardmore, OK",,,0,1
+40,021,45140,,,"Tahlequah, OK",,,0,1
+40,027,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,1
+40,031,30020,,334,"Lawton, OK",,"Lawton-Duncan, OK",1,1
+40,033,30020,,334,"Lawton, OK",,"Lawton-Duncan, OK",1,0
+40,037,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,1
+40,039,48220,,555,"Weatherford, OK",,"Weatherford-Elk City, OK",0,1
+40,047,21420,,,"Enid, OK",,,1,1
+40,051,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,0
+40,065,11060,,,"Altus, OK",,,0,1
+40,071,38620,,,"Ponca City, OK",,,0,1
+40,081,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,0
+40,083,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,1
+40,087,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,0
+40,101,34780,,538,"Muskogee, OK",,"Tulsa-Bartlesville-Muskogee, OK",0,1
+40,109,36420,,416,"Oklahoma City, OK",,"Oklahoma City-Shawnee, OK",1,1
+40,111,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,0
+40,113,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,1
+40,115,33060,,309,"Miami, OK",,"Joplin-Miami, MO-OK-KS",0,1
+40,117,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,0
+40,119,44660,,,"Stillwater, OK",,,0,1
+40,121,32540,,,"McAlester, OK",,,0,1
+40,123,10220,,,"Ada, OK",,,0,1
+40,125,43060,,416,"Shawnee, OK",,"Oklahoma City-Shawnee, OK",0,1
+40,131,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,0
+40,135,22900,,,"Fort Smith, AR-OK",,,1,0
+40,137,20340,,334,"Duncan, OK",,"Lawton-Duncan, OK",0,1
+40,139,25100,,,"Guymon, OK",,,0,1
+40,143,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,1
+40,145,46140,,538,"Tulsa, OK",,"Tulsa-Bartlesville-Muskogee, OK",1,1
+40,147,12780,,538,"Bartlesville, OK",,"Tulsa-Bartlesville-Muskogee, OK",0,1
+40,149,48220,,555,"Weatherford, OK",,"Weatherford-Elk City, OK",0,0
+40,153,49260,,,"Woodward, OK",,,0,1
+41,001,12520,,,"Baker City, OR",,,0,1
+41,003,18700,,440,"Corvallis, OR",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,005,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,007,11820,,,"Astoria, OR",,,0,1
+41,009,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,0
+41,011,18300,,,"Coos Bay-North Bend, OR",,,0,1
+41,013,13460,,,"Bend, OR",,,1,0
+41,015,15060,,152,"Brookings, OR",,"Brookings-Crescent City, OR-CA",0,1
+41,017,13460,,,"Bend, OR",,,1,1
+41,019,40700,,,"Roseburg, OR",,,0,1
+41,027,26220,,,"Hood River, OR",,,0,1
+41,029,32780,,366,"Medford, OR",,"Medford-Grants Pass, OR",1,1
+41,031,13460,,,"Bend, OR",,,1,0
+41,033,24420,,366,"Grants Pass, OR",,"Medford-Grants Pass, OR",1,1
+41,035,28900,,,"Klamath Falls, OR",,,0,1
+41,039,21660,,,"Eugene-Springfield, OR",,,1,1
+41,041,35440,,,"Newport, OR",,,0,1
+41,043,10540,,440,"Albany, OR",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,045,36620,,147,"Ontario, OR-ID",,"Boise City-Mountain Home-Ontario, ID-OR",0,1
+41,047,41420,,440,"Salem, OR",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,049,25840,,,"Hermiston-Pendleton, OR",,,0,0
+41,051,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,053,41420,,440,"Salem, OR",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,059,25840,,,"Hermiston-Pendleton, OR",,,0,1
+41,061,29260,,,"La Grande, OR",,,0,1
+41,065,45520,,,"The Dalles, OR",,,0,1
+41,067,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,1
+41,071,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,0
+42,001,23900,,276,"Gettysburg, PA",,"Harrisburg-York-Lebanon, PA",1,1
+42,003,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+42,005,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,0
+42,007,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+42,011,39740,,428,"Reading, PA",,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,013,11020,,107,"Altoona, PA",,"Altoona-Huntingdon, PA",1,1
+42,015,42380,,,"Sayre, PA",,,0,1
+42,017,37980,33874,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,019,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+42,021,27780,,306,"Johnstown, PA",,"Johnstown-Somerset, PA",1,1
+42,025,10900,,106,"Allentown-Bethlehem-Easton, PA-NJ",,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",1,0
+42,027,44300,,524,"State College, PA",,"State College-DuBois, PA",1,1
+42,029,37980,33874,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,033,20180,,524,"DuBois, PA",,"State College-DuBois, PA",0,1
+42,035,30820,,558,"Lock Haven, PA",,"Williamsport-Lock Haven, PA",0,1
+42,037,14100,,146,"Bloomsburg-Berwick, PA",,"Bloomsburg-Berwick-Sunbury, PA",0,1
+42,039,32740,,240,"Meadville, PA",,"Erie-Meadville, PA",0,1
+42,041,25420,,276,"Harrisburg-Carlisle, PA",,"Harrisburg-York-Lebanon, PA",1,1
+42,043,25420,,276,"Harrisburg-Carlisle, PA",,"Harrisburg-York-Lebanon, PA",1,1
+42,045,37980,37964,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,047,41260,,,"St. Marys, PA",,,0,1
+42,049,21500,,240,"Erie, PA",,"Erie-Meadville, PA",1,1
+42,051,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,0
+42,055,16540,,548,"Chambersburg, PA",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+42,061,26500,,107,"Huntingdon, PA",,"Altoona-Huntingdon, PA",0,1
+42,063,26860,,430,"Indiana, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",0,1
+42,069,42540,,,"Scranton--Wilkes-Barre, PA",,,1,1
+42,071,29540,,,"Lancaster, PA",,,1,1
+42,073,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,0
+42,075,30140,,276,"Lebanon, PA",,"Harrisburg-York-Lebanon, PA",1,1
+42,077,10900,,106,"Allentown-Bethlehem-Easton, PA-NJ",,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",1,1
+42,079,42540,,,"Scranton--Wilkes-Barre, PA",,,1,1
+42,081,48700,,558,"Williamsport, PA",,"Williamsport-Lock Haven, PA",1,1
+42,083,14620,,,"Bradford, PA",,,0,1
+42,085,25850,,430,"Hermitage, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",0,1
+42,087,30380,,,"Lewistown, PA",,,0,1
+42,089,20700,,106,"East Stroudsburg, PA",,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",0,1
+42,091,37980,33874,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Montgomery County-Bucks County-Chester County, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,093,44980,,146,"Sunbury, PA",,"Bloomsburg-Berwick-Sunbury, PA",0,0
+42,095,10900,,106,"Allentown-Bethlehem-Easton, PA-NJ",,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",1,1
+42,097,44980,,146,"Sunbury, PA",,"Bloomsburg-Berwick-Sunbury, PA",0,1
+42,099,25420,,276,"Harrisburg-Carlisle, PA",,"Harrisburg-York-Lebanon, PA",1,0
+42,101,37980,37964,428,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Philadelphia, PA","Philadelphia-Reading-Camden, PA-NJ-DE-MD",1,1
+42,103,25770,,408,"Hemlock Farms, PA",,"New York-Newark, NY-NJ-CT-PA",0,1
+42,107,39060,,,"Pottsville, PA",,,0,1
+42,109,42780,,146,"Selinsgrove, PA",,"Bloomsburg-Berwick-Sunbury, PA",0,1
+42,111,43740,,306,"Somerset, PA",,"Johnstown-Somerset, PA",0,1
+42,119,30260,,146,"Lewisburg, PA",,"Bloomsburg-Berwick-Sunbury, PA",0,1
+42,121,36340,,,"Oil City, PA",,,0,1
+42,123,47620,,,"Warren, PA",,,0,1
+42,125,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+42,129,38300,,430,"Pittsburgh, PA",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+42,131,42540,,,"Scranton--Wilkes-Barre, PA",,,1,0
+42,133,49620,,276,"York-Hanover, PA",,"Harrisburg-York-Lebanon, PA",1,1
+44,001,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+44,003,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+44,005,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+44,007,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+44,009,39300,,148,"Providence-Warwick, RI-MA",,"Boston-Worcester-Providence, MA-RI-NH",1,1
+45,001,24940,,273,"Greenwood, SC",,"Greenville-Spartanburg-Anderson, SC",0,0
+45,003,12260,,,"Augusta-Richmond County, GA-SC",,,1,1
+45,007,24860,,273,"Greenville-Anderson-Greer, SC",,"Greenville-Spartanburg-Anderson, SC",1,0
+45,013,25940,,,"Hilton Head Island-Bluffton-Port Royal, SC",,,1,1
+45,015,16700,,,"Charleston-North Charleston, SC",,,1,1
+45,017,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,0
+45,019,16700,,,"Charleston-North Charleston, SC",,,1,1
+45,021,23500,,273,"Gaffney, SC",,"Greenville-Spartanburg-Anderson, SC",0,1
+45,023,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+45,031,22500,,,"Florence, SC",,,1,0
+45,035,16700,,,"Charleston-North Charleston, SC",,,1,1
+45,037,12260,,,"Augusta-Richmond County, GA-SC",,,1,0
+45,039,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,0
+45,041,22500,,,"Florence, SC",,,1,1
+45,043,34680,,396,"Murrells Inlet, SC",,"Myrtle Beach-Conway, SC",0,1
+45,045,24860,,273,"Greenville-Anderson-Greer, SC",,"Greenville-Spartanburg-Anderson, SC",1,1
+45,047,24940,,273,"Greenwood, SC",,"Greenville-Spartanburg-Anderson, SC",0,1
+45,051,34820,,396,"Myrtle Beach-Conway-North Myrtle Beach, SC",,"Myrtle Beach-Conway, SC",1,1
+45,053,25940,,,"Hilton Head Island-Bluffton-Port Royal, SC",,,1,0
+45,055,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,0
+45,057,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+45,059,24860,,273,"Greenville-Anderson-Greer, SC",,"Greenville-Spartanburg-Anderson, SC",1,0
+45,063,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,1
+45,071,35140,,192,"Newberry, SC",,"Columbia-Sumter-Orangeburg, SC",0,1
+45,073,42860,,273,"Seneca, SC",,"Greenville-Spartanburg-Anderson, SC",0,1
+45,075,36700,,192,"Orangeburg, SC",,"Columbia-Sumter-Orangeburg, SC",0,1
+45,077,24860,,273,"Greenville-Anderson-Greer, SC",,"Greenville-Spartanburg-Anderson, SC",1,1
+45,079,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,1
+45,081,17900,,192,"Columbia, SC",,"Columbia-Sumter-Orangeburg, SC",1,0
+45,083,43900,,273,"Spartanburg, SC",,"Greenville-Spartanburg-Anderson, SC",1,1
+45,085,44940,,192,"Sumter, SC",,"Columbia-Sumter-Orangeburg, SC",1,1
+45,087,43900,,273,"Spartanburg, SC",,"Greenville-Spartanburg-Anderson, SC",1,0
+45,091,16740,,172,"Charlotte-Concord-Gastonia, NC-SC",,"Charlotte-Concord, NC-SC",1,0
+46,005,26700,,,"Huron, SD",,,0,1
+46,011,15100,,,"Brookings, SD",,,0,1
+46,013,10100,,,"Aberdeen, SD",,,0,1
+46,027,46820,,,"Vermillion, SD",,,0,1
+46,029,47980,,,"Watertown, SD",,,0,1
+46,033,39660,,452,"Rapid City, SD",,"Rapid City-Spearfish, SD",1,0
+46,035,33580,,,"Mitchell, SD",,,0,1
+46,045,10100,,,"Aberdeen, SD",,,0,0
+46,061,33580,,,"Mitchell, SD",,,0,0
+46,065,38180,,,"Pierre, SD",,,0,1
+46,081,43940,,452,"Spearfish, SD",,"Rapid City-Spearfish, SD",0,1
+46,083,43620,,,"Sioux Falls, SD-MN",,,1,1
+46,087,43620,,,"Sioux Falls, SD-MN",,,1,0
+46,093,39660,,452,"Rapid City, SD",,"Rapid City-Spearfish, SD",1,0
+46,099,43620,,,"Sioux Falls, SD-MN",,,1,1
+46,103,39660,,452,"Rapid City, SD",,"Rapid City-Spearfish, SD",1,1
+46,111,33580,,,"Mitchell, SD",,,0,0
+46,117,38180,,,"Pierre, SD",,,0,1
+46,125,43620,,,"Sioux Falls, SD-MN",,,1,0
+46,127,43580,,512,"Sioux City, IA-NE-SD",,"Sioux City-Le Mars, IA-NE-SD",1,1
+46,135,49460,,,"Yankton, SD",,,0,1
+47,001,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,003,43180,,400,"Shelbyville, TN",,"Nashville-Davidson--Murfreesboro, TN",0,1
+47,009,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,011,17420,,174,"Cleveland, TN",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,1
+47,013,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,0
+47,015,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,019,27740,,304,"Johnson City, TN",,"Johnson City-Kingsport-Bristol, TN-VA",1,1
+47,021,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,023,27180,,,"Jackson, TN",,,1,0
+47,029,35460,,315,"Newport, TN",,"Knoxville-Morristown-Sevierville, TN",0,1
+47,031,46100,,400,"Tullahoma-Manchester, TN",,"Nashville-Davidson--Murfreesboro, TN",0,1
+47,033,27180,,,"Jackson, TN",,,1,0
+47,035,18900,,,"Crossville, TN",,,0,1
+47,037,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,1
+47,043,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,045,20540,,,"Dyersburg, TN",,,0,1
+47,047,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+47,051,49010,,400,"Winchester, TN",,"Nashville-Davidson--Murfreesboro, TN",0,1
+47,053,27180,,,"Jackson, TN",,,1,0
+47,057,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,0
+47,059,24620,,304,"Greeneville, TN",,"Johnson City-Kingsport-Bristol, TN-VA",0,1
+47,063,34100,,315,"Morristown, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,065,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,1
+47,073,28700,,304,"Kingsport-Bristol, TN-VA",,"Johnson City-Kingsport-Bristol, TN-VA",1,1
+47,079,37540,,,"Paris, TN",,,0,1
+47,081,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,087,18260,,,"Cookeville, TN",,,0,0
+47,089,34100,,315,"Morristown, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,093,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,099,29980,,400,"Lawrenceburg, TN",,"Nashville-Davidson--Murfreesboro, TN",0,1
+47,103,22190,,290,"Fayetteville, TN",,"Huntsville-Decatur-Albertville, AL-TN",0,1
+47,105,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,1
+47,107,11940,,174,"Athens, TN",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",0,1
+47,111,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,113,27180,,,"Jackson, TN",,,1,1
+47,115,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,0
+47,117,30280,,400,"Lewisburg, TN",,"Nashville-Davidson--Murfreesboro, TN",0,1
+47,119,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,121,11940,,174,"Athens, TN",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",0,0
+47,125,17300,,,"Clarksville, TN-KY",,,1,1
+47,127,46100,,400,"Tullahoma-Manchester, TN",,"Nashville-Davidson--Murfreesboro, TN",0,0
+47,129,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,0
+47,131,46460,,542,"Union City, TN",,"Union City-Martin, TN",0,1
+47,133,18260,,,"Cookeville, TN",,,0,0
+47,139,17420,,174,"Cleveland, TN",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,0
+47,141,18260,,,"Cookeville, TN",,,0,1
+47,145,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,0
+47,147,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,149,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,153,16860,,174,"Chattanooga, TN-GA",,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1,0
+47,155,42940,,315,"Sevierville, TN",,"Knoxville-Morristown-Sevierville, TN",0,1
+47,157,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,1
+47,159,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,161,17300,,,"Clarksville, TN-KY",,,1,0
+47,163,28700,,304,"Kingsport-Bristol, TN-VA",,"Johnson City-Kingsport-Bristol, TN-VA",1,1
+47,165,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,1
+47,167,32820,,368,"Memphis, TN-MS-AR",,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1,0
+47,169,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,0
+47,171,27740,,304,"Johnson City, TN",,"Johnson City-Kingsport-Bristol, TN-VA",1,0
+47,173,28940,,315,"Knoxville, TN",,"Knoxville-Morristown-Sevierville, TN",1,0
+47,177,32660,,,"McMinnville, TN",,,0,1
+47,179,27740,,304,"Johnson City, TN",,"Johnson City-Kingsport-Bristol, TN-VA",1,1
+47,183,32280,,542,"Martin, TN",,"Union City-Martin, TN",0,1
+47,185,18260,,,"Cookeville, TN",,,0,0
+47,187,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,1
+47,189,34980,,400,"Nashville-Davidson--Murfreesboro--Franklin, TN",,"Nashville-Davidson--Murfreesboro, TN",1,1
+48,001,37300,,,"Palestine, TX",,,0,1
+48,003,11380,,372,"Andrews, TX",,"Midland-Odessa-Andrews, TX",0,1
+48,005,31260,,,"Lufkin, TX",,,0,1
+48,007,18580,,204,"Corpus Christi, TX",,"Corpus Christi-Kingsville-Alice, TX",1,0
+48,009,48660,,,"Wichita Falls, TX",,,1,0
+48,011,11100,,108,"Amarillo, TX",,"Amarillo-Borger, TX",1,0
+48,013,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,015,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,019,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,021,12420,,,"Austin-Round Rock-San Marcos, TX",,,1,0
+48,025,13300,,,"Beeville, TX",,,0,1
+48,027,28660,,,"Killeen-Temple, TX",,,1,1
+48,029,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,1
+48,035,47380,,,"Waco, TX",,,1,0
+48,037,45500,,,"Texarkana, TX-AR",,,1,1
+48,039,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,1
+48,041,17780,,,"College Station-Bryan, TX",,,1,1
+48,047,10860,,204,"Alice, TX",,"Corpus Christi-Kingsville-Alice, TX",0,0
+48,049,15220,,,"Brownwood, TX",,,0,1
+48,051,17780,,,"College Station-Bryan, TX",,,1,0
+48,055,12420,,,"Austin-Round Rock-San Marcos, TX",,,1,0
+48,057,38920,,544,"Port Lavaca, TX",,"Victoria-Port Lavaca, TX",0,1
+48,059,10180,,101,"Abilene, TX",,"Abilene-Sweetwater, TX",1,0
+48,061,15180,,154,"Brownsville-Harlingen, TX",,"Brownsville-Harlingen-Raymondville, TX",1,1
+48,063,34420,,,"Mount Pleasant, TX",,,0,0
+48,065,11100,,108,"Amarillo, TX",,"Amarillo-Borger, TX",1,0
+48,071,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,073,27380,,540,"Jacksonville, TX",,"Tyler-Jacksonville, TX",0,1
+48,077,48660,,,"Wichita Falls, TX",,,1,0
+48,079,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,0
+48,085,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,1
+48,091,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,097,23620,,206,"Gainesville, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,099,28660,,,"Killeen-Temple, TX",,,1,1
+48,107,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,0
+48,113,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,1
+48,117,25820,,,"Hereford, TX",,,0,1
+48,121,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,0
+48,135,36220,,372,"Odessa, TX",,"Midland-Odessa-Andrews, TX",1,1
+48,139,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,1
+48,141,21340,,238,"El Paso, TX",,"El Paso-Las Cruces, TX-NM",1,1
+48,143,44500,,,"Stephenville, TX",,,0,1
+48,145,47380,,,"Waco, TX",,,1,0
+48,147,14300,,206,"Bonham, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,153,38380,,352,"Plainview, TX",,"Lubbock-Plainview, TX",0,0
+48,157,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,1
+48,167,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,169,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,0
+48,171,23240,,484,"Fredericksburg, TX",,"San Antonio-New Braunfels-Kerrville, TX",0,1
+48,175,47020,,544,"Victoria, TX",,"Victoria-Port Lavaca, TX",1,0
+48,179,37420,,,"Pampa, TX",,,0,1
+48,181,43300,,206,"Sherman-Denison, TX",,"Dallas-Fort Worth, TX-OK",1,1
+48,183,30980,,,"Longview, TX",,,1,1
+48,187,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,1
+48,189,38380,,352,"Plainview, TX",,"Lubbock-Plainview, TX",0,1
+48,199,13140,,,"Beaumont-Port Arthur, TX",,,1,0
+48,201,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,1
+48,203,30980,,,"Longview, TX",,,1,0
+48,209,12420,,,"Austin-Round Rock-San Marcos, TX",,,1,1
+48,213,11980,,206,"Athens, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,215,32580,,365,"McAllen-Edinburg-Mission, TX",,"McAllen-Edinburg, TX",1,1
+48,219,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,0
+48,221,24180,,206,"Granbury, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,223,44860,,206,"Sulphur Springs, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,227,13700,,,"Big Spring, TX",,,0,1
+48,229,21340,,238,"El Paso, TX",,"El Paso-Las Cruces, TX-NM",1,0
+48,231,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,0
+48,233,14420,,108,"Borger, TX",,"Amarillo-Borger, TX",0,1
+48,235,41660,,,"San Angelo, TX",,,1,0
+48,245,13140,,,"Beaumont-Port Arthur, TX",,,1,1
+48,249,10860,,204,"Alice, TX",,"Corpus Christi-Kingsville-Alice, TX",0,1
+48,251,19100,23104,206,"Dallas-Fort Worth-Arlington, TX","Fort Worth-Arlington-Grapevine, TX","Dallas-Fort Worth, TX-OK",1,1
+48,253,10180,,101,"Abilene, TX",,"Abilene-Sweetwater, TX",1,0
+48,257,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,0
+48,259,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,265,28500,,484,"Kerrville, TX",,"San Antonio-New Braunfels-Kerrville, TX",0,1
+48,273,28780,,204,"Kingsville, TX",,"Corpus Christi-Kingsville-Alice, TX",0,1
+48,277,37580,,,"Paris, TX",,,0,1
+48,281,28660,,,"Killeen-Temple, TX",,,1,0
+48,291,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,303,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,1
+48,305,31180,,352,"Lubbock, TX",,"Lubbock-Plainview, TX",1,0
+48,309,47380,,,"Waco, TX",,,1,1
+48,317,33260,,372,"Midland, TX",,"Midland-Odessa-Andrews, TX",1,0
+48,321,13060,,288,"Bay City, TX",,"Houston-Pasadena, TX",0,1
+48,323,20580,,,"Eagle Pass, TX",,,1,1
+48,325,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,329,33260,,372,"Midland, TX",,"Midland-Odessa-Andrews, TX",1,1
+48,339,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,341,20300,,,"Dumas, TX",,,0,1
+48,343,34420,,,"Mount Pleasant, TX",,,0,0
+48,347,34860,,,"Nacogdoches, TX",,,0,1
+48,349,18620,,206,"Corsicana, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,353,45020,,101,"Sweetwater, TX",,"Abilene-Sweetwater, TX",0,1
+48,355,18580,,204,"Corpus Christi, TX",,"Corpus Christi-Kingsville-Alice, TX",1,1
+48,359,11100,,108,"Amarillo, TX",,"Amarillo-Borger, TX",1,0
+48,361,13140,,,"Beaumont-Port Arthur, TX",,,1,0
+48,363,33420,,206,"Mineral Wells, TX",,"Dallas-Fort Worth, TX-OK",0,1
+48,367,19100,23104,206,"Dallas-Fort Worth-Arlington, TX","Fort Worth-Arlington-Grapevine, TX","Dallas-Fort Worth, TX-OK",1,0
+48,375,11100,,108,"Amarillo, TX",,"Amarillo-Borger, TX",1,1
+48,381,11100,,108,"Amarillo, TX",,"Amarillo-Borger, TX",1,1
+48,387,37580,,,"Paris, TX",,,0,0
+48,389,45880,,,"Town of Pecos, TX",,,0,1
+48,393,37420,,,"Pampa, TX",,,0,0
+48,395,17780,,,"College Station-Bryan, TX",,,1,0
+48,397,19100,19124,206,"Dallas-Fort Worth-Arlington, TX","Dallas-Plano-Irving, TX","Dallas-Fort Worth, TX-OK",1,1
+48,401,30980,,,"Longview, TX",,,1,0
+48,407,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,0
+48,409,18580,,204,"Corpus Christi, TX",,"Corpus Christi-Kingsville-Alice, TX",1,1
+48,415,43660,,,"Snyder, TX",,,0,1
+48,423,46340,,540,"Tyler, TX",,"Tyler-Jacksonville, TX",1,1
+48,427,40100,,365,"Rio Grande City-Roma, TX",,"McAllen-Edinburg, TX",0,1
+48,439,19100,23104,206,"Dallas-Fort Worth-Arlington, TX","Fort Worth-Arlington-Grapevine, TX","Dallas-Fort Worth, TX-OK",1,1
+48,441,10180,,101,"Abilene, TX",,"Abilene-Sweetwater, TX",1,1
+48,449,34420,,,"Mount Pleasant, TX",,,0,1
+48,451,41660,,,"San Angelo, TX",,,1,1
+48,453,12420,,,"Austin-Round Rock-San Marcos, TX",,,1,1
+48,459,30980,,,"Longview, TX",,,1,0
+48,463,46620,,,"Uvalde, TX",,,0,1
+48,465,19620,,,"Del Rio, TX",,,0,1
+48,469,47020,,544,"Victoria, TX",,"Victoria-Port Lavaca, TX",1,1
+48,471,26660,,288,"Huntsville, TX",,"Houston-Pasadena, TX",0,1
+48,473,26420,,288,"Houston-Pasadena-The Woodlands, TX",,"Houston-Pasadena, TX",1,1
+48,477,14780,,288,"Brenham, TX",,"Houston-Pasadena, TX",0,1
+48,479,29700,,,"Laredo, TX",,,1,1
+48,481,20900,,288,"El Campo, TX",,"Houston-Pasadena, TX",0,1
+48,485,48660,,,"Wichita Falls, TX",,,1,1
+48,487,46900,,,"Vernon, TX",,,0,1
+48,489,39700,,154,"Raymondville, TX",,"Brownsville-Harlingen-Raymondville, TX",0,1
+48,491,12420,,,"Austin-Round Rock-San Marcos, TX",,,1,1
+48,493,41700,,484,"San Antonio-New Braunfels, TX",,"San Antonio-New Braunfels-Kerrville, TX",1,0
+48,497,19100,23104,206,"Dallas-Fort Worth-Arlington, TX","Fort Worth-Arlington-Grapevine, TX","Dallas-Fort Worth, TX-OK",1,0
+48,505,49820,,,"Zapata, TX",,,0,1
+49,003,14940,,482,"Brigham City, UT-ID",,"Salt Lake City-Provo-Orem, UT-ID",0,1
+49,005,30860,,,"Logan, UT-ID",,,1,1
+49,007,39220,,,"Price, UT",,,0,1
+49,011,36260,,482,"Ogden, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,1
+49,021,16260,,,"Cedar City, UT",,,0,1
+49,023,39340,,482,"Provo-Orem-Lehi, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,0
+49,029,36260,,482,"Ogden, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,0
+49,033,21740,,,"Evanston, WY-UT",,,0,0
+49,035,41620,,482,"Salt Lake City-Murray, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,1
+49,043,25720,,482,"Heber, UT",,"Salt Lake City-Provo-Orem, UT-ID",0,1
+49,045,41620,,482,"Salt Lake City-Murray, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,0
+49,047,46860,,,"Vernal, UT",,,0,1
+49,049,39340,,482,"Provo-Orem-Lehi, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,1
+49,051,25720,,482,"Heber, UT",,"Salt Lake City-Provo-Orem, UT-ID",0,0
+49,053,41100,,,"St. George, UT",,,1,1
+49,057,36260,,482,"Ogden, UT",,"Salt Lake City-Provo-Orem, UT-ID",1,1
+50,003,13540,,,"Bennington, VT",,,0,1
+50,007,15540,,162,"Burlington-South Burlington, VT",,"Burlington-South Burlington-Barre, VT",1,1
+50,011,15540,,162,"Burlington-South Burlington, VT",,"Burlington-South Burlington-Barre, VT",1,0
+50,013,15540,,162,"Burlington-South Burlington, VT",,"Burlington-South Burlington-Barre, VT",1,0
+50,017,30150,,,"Lebanon-Claremont, NH-VT",,,0,0
+50,021,40860,,,"Rutland, VT",,,0,1
+50,023,12740,,162,"Barre, VT",,"Burlington-South Burlington-Barre, VT",0,1
+50,025,14710,,313,"Brattleboro, VT",,"Keene-Brattleboro, NH-VT",0,1
+50,027,30150,,,"Lebanon-Claremont, NH-VT",,,0,1
+51,003,16820,,,"Charlottesville, VA",,,1,1
+51,007,40060,,,"Richmond, VA",,,1,0
+51,009,31340,,,"Lynchburg, VA",,,1,1
+51,011,31340,,,"Lynchburg, VA",,,1,0
+51,013,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,015,44420,,277,"Staunton-Stuarts Draft, VA",,"Harrisonburg-Staunton-Stuarts Draft, VA",1,1
+51,019,31340,,,"Lynchburg, VA",,,1,1
+51,023,40220,,,"Roanoke, VA",,,1,1
+51,031,31340,,,"Lynchburg, VA",,,1,1
+51,036,40060,,,"Richmond, VA",,,1,0
+51,041,40060,,,"Richmond, VA",,,1,1
+51,043,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,045,40220,,,"Roanoke, VA",,,1,0
+51,047,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,053,40060,,,"Richmond, VA",,,1,1
+51,059,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,061,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,063,13980,,,"Blacksburg-Christiansburg-Radford, VA",,,1,0
+51,065,16820,,,"Charlottesville, VA",,,1,0
+51,067,40220,,,"Roanoke, VA",,,1,0
+51,069,49020,,548,"Winchester, VA-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,071,13980,,,"Blacksburg-Christiansburg-Radford, VA",,,1,0
+51,073,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,075,40060,,,"Richmond, VA",,,1,0
+51,079,16820,,,"Charlottesville, VA",,,1,0
+51,085,40060,,,"Richmond, VA",,,1,1
+51,087,40060,,,"Richmond, VA",,,1,1
+51,089,32300,,,"Martinsville, VA",,,0,1
+51,093,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,095,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+51,097,40060,,,"Richmond, VA",,,1,0
+51,101,40060,,,"Richmond, VA",,,1,0
+51,107,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,115,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+51,121,13980,,,"Blacksburg-Christiansburg-Radford, VA",,,1,1
+51,125,16820,,,"Charlottesville, VA",,,1,0
+51,127,40060,,,"Richmond, VA",,,1,0
+51,137,29470,,548,"Lake of the Woods, VA",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",0,1
+51,143,19260,,,"Danville, VA",,,0,1
+51,145,40060,,,"Richmond, VA",,,1,0
+51,149,40060,,,"Richmond, VA",,,1,1
+51,153,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,155,13980,,,"Blacksburg-Christiansburg-Radford, VA",,,1,0
+51,157,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,161,40220,,,"Roanoke, VA",,,1,1
+51,165,25500,,277,"Harrisonburg, VA",,"Harrisonburg-Staunton-Stuarts Draft, VA",1,1
+51,169,28700,,304,"Kingsport-Bristol, TN-VA",,"Johnson City-Kingsport-Bristol, TN-VA",1,0
+51,177,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,179,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,181,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+51,183,40060,,,"Richmond, VA",,,1,0
+51,185,14140,,,"Bluefield, WV-VA",,,0,1
+51,187,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,191,28700,,304,"Kingsport-Bristol, TN-VA",,"Johnson City-Kingsport-Bristol, TN-VA",1,0
+51,199,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,510,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,520,28700,,304,"Kingsport-Bristol, TN-VA",,"Johnson City-Kingsport-Bristol, TN-VA",1,0
+51,540,16820,,,"Charlottesville, VA",,,1,1
+51,550,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,570,40060,,,"Richmond, VA",,,1,1
+51,590,19260,,,"Danville, VA",,,0,1
+51,600,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,610,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,630,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+51,650,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,660,25500,,277,"Harrisonburg, VA",,"Harrisonburg-Staunton-Stuarts Draft, VA",1,1
+51,670,40060,,,"Richmond, VA",,,1,1
+51,680,31340,,,"Lynchburg, VA",,,1,1
+51,683,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,685,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+51,690,32300,,,"Martinsville, VA",,,0,1
+51,700,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,710,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,730,40060,,,"Richmond, VA",,,1,1
+51,735,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,740,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,750,13980,,,"Blacksburg-Christiansburg-Radford, VA",,,1,1
+51,760,40060,,,"Richmond, VA",,,1,1
+51,770,40220,,,"Roanoke, VA",,,1,1
+51,775,40220,,,"Roanoke, VA",,,1,1
+51,790,44420,,277,"Staunton-Stuarts Draft, VA",,"Harrisonburg-Staunton-Stuarts Draft, VA",1,1
+51,800,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+51,810,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,1
+51,820,44420,,277,"Staunton-Stuarts Draft, VA",,"Harrisonburg-Staunton-Stuarts Draft, VA",1,1
+51,830,47260,,545,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,"Virginia Beach-Chesapeake, VA-NC",1,0
+51,840,49020,,548,"Winchester, VA-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+53,001,36830,,393,"Othello, WA",,"Moses Lake-Othello, WA",0,1
+53,003,30300,,,"Lewiston, ID-WA",,,1,1
+53,005,28420,,314,"Kennewick-Richland, WA",,"Kennewick-Richland-Walla Walla, WA",1,1
+53,007,48300,,,"Wenatchee-East Wenatchee, WA",,,1,1
+53,009,38820,,,"Port Angeles, WA",,,0,1
+53,011,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,1
+53,015,31020,,440,"Longview-Kelso, WA",,"Portland-Vancouver-Salem, OR-WA",1,1
+53,017,48300,,,"Wenatchee-East Wenatchee, WA",,,1,1
+53,021,28420,,314,"Kennewick-Richland, WA",,"Kennewick-Richland-Walla Walla, WA",1,1
+53,025,34180,,393,"Moses Lake, WA",,"Moses Lake-Othello, WA",0,1
+53,027,10140,,,"Aberdeen, WA",,,0,1
+53,029,36020,,500,"Oak Harbor, WA",,"Seattle-Tacoma, WA",0,1
+53,031,39040,,,"Port Townsend, WA",,,0,1
+53,033,42660,42644,500,"Seattle-Tacoma-Bellevue, WA","Seattle-Bellevue-Kent, WA","Seattle-Tacoma, WA",1,1
+53,035,14740,,500,"Bremerton-Silverdale-Port Orchard, WA",,"Seattle-Tacoma, WA",1,1
+53,037,21260,,,"Ellensburg, WA",,,0,1
+53,041,16500,,500,"Centralia, WA",,"Seattle-Tacoma, WA",0,1
+53,045,43220,,500,"Shelton, WA",,"Seattle-Tacoma, WA",0,1
+53,053,42660,45104,500,"Seattle-Tacoma-Bellevue, WA","Tacoma-Lakewood, WA","Seattle-Tacoma, WA",1,1
+53,057,34580,,500,"Mount Vernon-Anacortes, WA",,"Seattle-Tacoma, WA",1,1
+53,059,38900,,440,"Portland-Vancouver-Hillsboro, OR-WA",,"Portland-Vancouver-Salem, OR-WA",1,0
+53,061,42660,21794,500,"Seattle-Tacoma-Bellevue, WA","Everett, WA","Seattle-Tacoma, WA",1,1
+53,063,44060,,518,"Spokane-Spokane Valley, WA",,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",1,1
+53,065,44060,,518,"Spokane-Spokane Valley, WA",,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",1,0
+53,067,36500,,500,"Olympia-Lacey-Tumwater, WA",,"Seattle-Tacoma, WA",1,1
+53,071,47460,,314,"Walla Walla, WA",,"Kennewick-Richland-Walla Walla, WA",1,1
+53,073,13380,,,"Bellingham, WA",,,1,1
+53,075,39420,,446,"Pullman, WA",,"Pullman-Moscow, WA-ID",0,1
+53,077,49420,,,"Yakima, WA",,,1,1
+54,003,25180,,548,"Hagerstown-Martinsburg, MD-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,1
+54,005,16620,,170,"Charleston, WV",,"Charleston-Huntington-Ashland, WV-OH-KY",1,0
+54,009,48260,,430,"Weirton-Steubenville, WV-OH",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+54,011,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+54,015,16620,,170,"Charleston, WV",,"Charleston-Huntington-Ashland, WV-OH-KY",1,0
+54,017,17220,,242,"Clarksburg, WV",,"Fairmont-Clarksburg, WV",0,0
+54,019,13220,,,"Beckley, WV",,,1,1
+54,027,49020,,548,"Winchester, VA-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+54,029,48260,,430,"Weirton-Steubenville, WV-OH",,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",1,1
+54,033,17220,,242,"Clarksburg, WV",,"Fairmont-Clarksburg, WV",0,1
+54,037,47900,11694,548,"Washington-Arlington-Alexandria, DC-VA-MD-WV","Arlington-Alexandria-Reston, VA-WV","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+54,039,16620,,170,"Charleston, WV",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+54,049,21900,,242,"Fairmont, WV",,"Fairmont-Clarksburg, WV",0,1
+54,051,48540,,,"Wheeling, WV-OH",,,1,0
+54,055,14140,,,"Bluefield, WV-VA",,,0,1
+54,057,19060,,,"Cumberland, MD-WV",,,0,0
+54,061,34060,,,"Morgantown, WV",,,1,1
+54,065,25180,,548,"Hagerstown-Martinsburg, MD-WV",,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",1,0
+54,069,48540,,,"Wheeling, WV-OH",,,1,1
+54,077,34060,,,"Morgantown, WV",,,1,0
+54,079,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+54,081,13220,,,"Beckley, WV",,,1,1
+54,083,21180,,,"Elkins, WV",,,0,1
+54,091,17220,,242,"Clarksburg, WV",,"Fairmont-Clarksburg, WV",0,0
+54,099,26580,,170,"Huntington-Ashland, WV-KY-OH",,"Charleston-Huntington-Ashland, WV-OH-KY",1,1
+54,105,37620,,425,"Parkersburg-Vienna, WV",,"Parkersburg-Marietta-Vienna, WV-OH",1,0
+54,107,37620,,425,"Parkersburg-Vienna, WV",,"Parkersburg-Marietta-Vienna, WV-OH",1,1
+55,005,39960,,,"Rice Lake, WI",,,0,1
+55,009,24580,,267,"Green Bay, WI",,"Green Bay-Shawano, WI",1,1
+55,015,11540,,118,"Appleton, WI",,"Appleton-Oshkosh-Neenah, WI",1,1
+55,017,20740,,232,"Eau Claire, WI",,"Eau Claire-Menomonie, WI",1,1
+55,021,31540,,357,"Madison, WI",,"Madison-Janesville-Beloit, WI",1,0
+55,025,31540,,357,"Madison, WI",,"Madison-Janesville-Beloit, WI",1,1
+55,027,13180,,376,"Beaver Dam, WI",,"Milwaukee-Racine-Waukesha, WI",0,1
+55,031,20260,,228,"Duluth, MN-WI",,"Duluth-Grand Rapids, MN-WI",1,1
+55,033,32860,,232,"Menomonie, WI",,"Eau Claire-Menomonie, WI",0,1
+55,035,20740,,232,"Eau Claire, WI",,"Eau Claire-Menomonie, WI",1,1
+55,037,27020,,361,"Iron Mountain, MI-WI",,"Marinette-Iron Mountain, WI-MI",0,0
+55,039,22540,,,"Fond du Lac, WI",,,1,1
+55,043,38420,,,"Platteville, WI",,,0,1
+55,045,31540,,357,"Madison, WI",,"Madison-Janesville-Beloit, WI",1,0
+55,049,31540,,357,"Madison, WI",,"Madison-Janesville-Beloit, WI",1,0
+55,055,48020,,376,"Watertown-Fort Atkinson, WI",,"Milwaukee-Racine-Waukesha, WI",0,1
+55,059,28450,,176,"Kenosha, WI",,"Chicago-Naperville, IL-IN-WI",1,1
+55,061,24580,,267,"Green Bay, WI",,"Green Bay-Shawano, WI",1,0
+55,063,29100,,317,"La Crosse-Onalaska, WI-MN",,"La Crosse-Onalaska-Sparta, WI-MN",1,1
+55,071,31820,,,"Manitowoc, WI",,,0,1
+55,073,48140,,554,"Wausau, WI",,"Wausau-Stevens Point-Wisconsin Rapids, WI",1,1
+55,075,31940,,361,"Marinette, WI-MI",,"Marinette-Iron Mountain, WI-MI",0,1
+55,078,43020,,267,"Shawano, WI",,"Green Bay-Shawano, WI",0,0
+55,079,33340,,376,"Milwaukee-Waukesha, WI",,"Milwaukee-Racine-Waukesha, WI",1,1
+55,081,43890,,317,"Sparta, WI",,"La Crosse-Onalaska-Sparta, WI-MN",0,1
+55,083,24580,,267,"Green Bay, WI",,"Green Bay-Shawano, WI",1,0
+55,087,11540,,118,"Appleton, WI",,"Appleton-Oshkosh-Neenah, WI",1,1
+55,089,33340,,376,"Milwaukee-Waukesha, WI",,"Milwaukee-Racine-Waukesha, WI",1,0
+55,093,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+55,097,44620,,554,"Stevens Point-Plover, WI",,"Wausau-Stevens Point-Wisconsin Rapids, WI",0,1
+55,101,39540,,376,"Racine-Mount Pleasant, WI",,"Milwaukee-Racine-Waukesha, WI",1,1
+55,105,27500,,357,"Janesville-Beloit, WI",,"Madison-Janesville-Beloit, WI",1,1
+55,109,33460,,378,"Minneapolis-St. Paul-Bloomington, MN-WI",,"Minneapolis-St. Paul, MN-WI",1,0
+55,111,12660,,357,"Baraboo, WI",,"Madison-Janesville-Beloit, WI",0,1
+55,115,43020,,267,"Shawano, WI",,"Green Bay-Shawano, WI",0,1
+55,117,43100,,,"Sheboygan, WI",,,1,1
+55,123,29100,,317,"La Crosse-Onalaska, WI-MN",,"La Crosse-Onalaska-Sparta, WI-MN",1,0
+55,127,48580,,376,"Whitewater-Elkhorn, WI",,"Milwaukee-Racine-Waukesha, WI",0,1
+55,131,33340,,376,"Milwaukee-Waukesha, WI",,"Milwaukee-Racine-Waukesha, WI",1,0
+55,133,33340,,376,"Milwaukee-Waukesha, WI",,"Milwaukee-Racine-Waukesha, WI",1,1
+55,139,36780,,118,"Oshkosh-Neenah, WI",,"Appleton-Oshkosh-Neenah, WI",1,1
+55,141,49220,,554,"Wisconsin Rapids-Marshfield, WI",,"Wausau-Stevens Point-Wisconsin Rapids, WI",0,1
+56,001,29660,,,"Laramie, WY",,,0,1
+56,005,23940,,,"Gillette, WY",,,0,1
+56,013,40180,,,"Riverton, WY",,,0,1
+56,021,16940,,,"Cheyenne, WY",,,1,1
+56,025,16220,,,"Casper, WY",,,1,1
+56,029,17650,,,"Cody, WY",,,0,1
+56,033,43260,,,"Sheridan, WY",,,0,1
+56,037,40540,,,"Rock Springs, WY",,,0,1
+56,039,27220,,,"Jackson, WY-ID",,,0,1
+56,041,21740,,,"Evanston, WY-UT",,,0,1
+72,003,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,005,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,007,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,009,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,011,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,013,11640,,490,"Arecibo, PR",,"San Juan-Bayamón, PR",1,1
+72,015,25020,,490,"Guayama, PR",,"San Juan-Bayamón, PR",1,1
+72,017,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,019,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,021,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,023,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,025,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,027,11640,,490,"Arecibo, PR",,"San Juan-Bayamón, PR",1,1
+72,029,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,031,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,033,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,035,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,037,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,039,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,041,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,043,17620,,434,"Coamo, PR",,"Ponce-Coamo, PR",0,1
+72,045,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,047,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,051,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,053,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,054,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,057,25020,,490,"Guayama, PR",,"San Juan-Bayamón, PR",1,1
+72,059,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,0
+72,061,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,063,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,065,11640,,490,"Arecibo, PR",,"San Juan-Bayamón, PR",1,1
+72,067,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,0
+72,069,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,071,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,075,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,0
+72,077,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,079,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,081,29720,,490,"Lares, PR",,"San Juan-Bayamón, PR",0,1
+72,085,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,087,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,089,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,091,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,095,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,097,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,0
+72,099,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,101,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,103,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,0
+72,105,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,107,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,109,25020,,490,"Guayama, PR",,"San Juan-Bayamón, PR",1,1
+72,111,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,0
+72,113,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,1
+72,115,11640,,490,"Arecibo, PR",,"San Juan-Bayamón, PR",1,1
+72,117,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,119,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,121,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,123,17640,,490,"Coco, PR",,"San Juan-Bayamón, PR",0,1
+72,125,32420,,364,"Mayagüez, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,127,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,129,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,131,10380,,364,"Aguadilla, PR",,"Mayagüez-Aguadilla, PR",1,1
+72,133,17620,,434,"Coamo, PR",,"Ponce-Coamo, PR",0,1
+72,135,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,137,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,139,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,141,46580,,490,"Utuado, PR",,"San Juan-Bayamón, PR",0,1
+72,143,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,145,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,149,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,0
+72,151,41980,,490,"San Juan-Bayamón-Caguas, PR",,"San Juan-Bayamón, PR",1,1
+72,153,38660,,434,"Ponce, PR",,"Ponce-Coamo, PR",1,0
