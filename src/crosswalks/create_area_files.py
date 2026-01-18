@@ -162,7 +162,7 @@ def _(BASE_PATH, fips_df, msa_csa, pl):
             metro=pl.col('metro')
                     .fill_null(0)
         )
-        .write_parquet(f'{BASE_PATH}/data/geographic_codes.parquet')
+        .write_csv(f'{BASE_PATH}/data/geographic_codes.csv')
     )
     return
 
